@@ -1,0 +1,778 @@
+[
+  {
+    "name": "Inception",
+    "image": "https://image.tmdb.org/t/p/w500/edv5CZvWj09up0r1xXyHlTTiu2h.jpg",
+    "category": "Sci-Fi",
+    "ratings": 8.8,
+    "details": "A thief with the ability to enter dreams must steal a secret from a dangerous mind.",
+    "published_date": "2010-07-16"
+  },
+  {
+    "name": "The Dark Knight",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "category": "Action",
+    "ratings": 9.0,
+    "details": "Batman faces the Joker, a criminal mastermind wreaking havoc in Gotham.",
+    "published_date": "2008-07-18"
+  },
+  {
+    "name": "Spirited Away",
+    "image": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "category": "Animation",
+    "ratings": 8.6,
+    "details": "A young girl navigates a magical world to save her parents.",
+    "published_date": "2001-07-20"
+  },
+  {
+    "name": "The Matrix",
+    "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5d.jpg",
+    "category": "Sci-Fi",
+    "ratings": 8.7,
+    "details": "A hacker discovers reality is a simulation controlled by machines.",
+    "published_date": "1999-03-31"
+  },
+  {
+    "name": "Pulp Fiction",
+    "image": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8io7PMb.jpg",
+    "category": "Crime",
+    "ratings": 8.9,
+    "details": "Intertwined stories of crime and redemption in Los Angeles.",
+    "published_date": "1994-10-14"
+  },
+  {
+    "name": "Forrest Gump",
+    "image": "https://image.tmdb.org/t/p/w500/saHP97rE1bl8v7A5o2aK.jpg",
+    "category": "Drama",
+    "ratings": 8.8,
+    "details": "A man with a low IQ experiences extraordinary events in American history.",
+    "published_date": "1994-07-06"
+  },
+  {
+    "name": "Avengers: Endgame",
+    "image": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "category": "Action",
+    "ratings": 8.4,
+    "details": "The Avengers unite to reverse Thanos' catastrophic snap.",
+    "published_date": "2019-04-26"
+  },
+  {
+    "name": "Parasite",
+    "image": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "category": "Drama",
+    "ratings": 8.6,
+    "details": "A poor family infiltrates a wealthy household with unforeseen consequences.",
+    "published_date": "2019-05-30"
+  },
+  {
+    "name": "Titanic",
+    "image": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "category": "Romance",
+    "ratings": 7.8,
+    "details": "A love story unfolds aboard the ill-fated Titanic.",
+    "published_date": "1997-12-19"
+  },
+  {
+    "name": "Interstellar",
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "category": "Sci-Fi",
+    "ratings": 8.6,
+    "details": "A team of explorers travels through a wormhole to save humanity.",
+    "published_date": "2014-11-07"
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "image": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "category": "Drama",
+    "ratings": 9.3,
+    "details": "A banker wrongfully imprisoned forms a bond with a fellow inmate.",
+    "published_date": "1994-09-23"
+  },
+  {
+    "name": "Fight Club",
+    "image": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "category": "Thriller",
+    "ratings": 8.8,
+    "details": "An insomniac forms an underground fight club with a mysterious stranger.",
+    "published_date": "1999-10-15"
+  },
+  {
+    "name": "Star Wars: Episode IV - A New Hope",
+    "image": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "category": "Sci-Fi",
+    "ratings": 8.6,
+    "details": "A young farm boy joins a rebellion against an evil empire.",
+    "published_date": "1977-05-25"
+  },
+  {
+    "name": "The Godfather",
+    "image": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "category": "Crime",
+    "ratings": 9.2,
+    "details": "The aging patriarch of a mafia family transfers control to his son.",
+    "published_date": "1972-03-24"
+  },
+  {
+    "name": "La La Land",
+    "image": "https://image.tmdb.org/t/p/w500/uJHkDJnV8P3j7j5RmuJ5sW0Vq.jpg",
+    "category": "Romance",
+    "ratings": 8.0,
+    "details": "A musician and an actress pursue their dreams and love in Los Angeles.",
+    "published_date": "2016-12-09"
+  },
+  {
+    "name": "Joker",
+    "image": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "category": "Drama",
+    "ratings": 8.4,
+    "details": "A failed comedian descends into madness in Gotham City.",
+    "published_date": "2019-10-04"
+  },
+  {
+    "name": "Blade Runner 2049",
+    "image": "https://image.tmdb.org/t/p/w500/gAjfZqG6oV4U3b3x8Bn3iC6r.jpg",
+    "category": "Sci-Fi",
+    "ratings": 8.0,
+    "details": "A replicant hunter uncovers a secret that threatens society.",
+    "published_date": "2017-10-06"
+  },
+  {
+    "name": "The Lion King",
+    "image": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "category": "Animation",
+    "ratings": 8.5,
+    "details": "A young lion prince reclaims his kingdom from his treacherous uncle.",
+    "published_date": "1994-06-24"
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "image": "https://image.tmdb.org/t/p/w500/8tZYtuZyq1w.jpg",
+    "category": "Action",
+    "ratings": 8.1,
+    "details": "In a post-apocalyptic wasteland, a drifter and a rebel fight for survival.",
+    "published_date": "2015-05-15"
+  },
+  {
+    "name": "The Grand Budapest Hotel",
+    "image": "https://image.tmdb.org/t/p/w500/nX5XotM9utcyYwo7p0e1EzTZ0i.jpg",
+    "category": "Comedy",
+    "ratings": 8.1,
+    "details": "A concierge and his lobby boy embark on a whimsical adventure.",
+    "published_date": "2014-03-28"
+  },
+  {
+    "name": "Whiplash",
+    "image": "https://image.tmdb.org/t/p/w500/6uSPcdGNg3g5.jpg",
+    "category": "Drama",
+    "ratings": 8.5,
+    "details": "A young drummer pushes his limits under a demanding instructor.",
+    "published_date": "2014-10-10"
+  },
+  {
+    "name": "The Avengers",
+    "image": "https://image.tmdb.org/t/p/w500/4ssDuvW6F2zL.jpg",
+    "category": "Action",
+    "ratings": 8.0,
+    "details": "Earth's mightiest heroes unite to stop an alien invasion.",
+    "published_date": "2012-05-04"
+  },
+  {
+    "name": "Gladiator",
+    "image": "https://image.tmdb.org/t/p/w500/6WBIzCgm8D.jpg",
+    "category": "Action",
+    "ratings": 8.5,
+    "details": "A Roman general seeks revenge against a corrupt emperor.",
+    "published_date": "2000-05-05"
+  },
+  {
+    "name": "The Departed",
+    "image": "https://image.tmdb.org/t/p/w500/kWWAt2FMRP.jpg",
+    "category": "Crime",
+    "ratings": 8.5,
+    "details": "An undercover cop and a mole infiltrate each other's worlds.",
+    "published_date": "2006-10-06"
+  },
+  {
+    "name": "Django Unchained",
+    "image": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7.jpg",
+    "category": "Western",
+    "ratings": 8.4,
+    "details": "A freed slave teams up with a bounty hunter to rescue his wife.",
+    "published_date": "2012-12-25"
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "image": "https://image.tmdb.org/t/p/w500/sOxr33wn.png",
+    "category": "Biography",
+    "ratings": 8.2,
+    "details": "A stockbroker's rise and fall in a world of excess.",
+    "published_date": "2013-12-25"
+  },
+  {
+    "name": "Shutter Island",
+    "image": "https://image.tmdb.org/t/p/w500/kve20tX.jpg",
+    "category": "Thriller",
+    "ratings": 8.2,
+    "details": "A U.S. Marshal investigates a disappearance on a remote island.",
+    "published_date": "2010-02-19"
+  },
+  {
+    "name": "Toy Story",
+    "image": "https://image.tmdb.org/t/p/w500/uXDfy.jpg",
+    "category": "Animation",
+    "ratings": 8.3,
+    "details": "A cowboy doll faces rivalry with a new space ranger toy.",
+    "published_date": "1995-11-22"
+  },
+  {
+    "name": "Coco",
+    "image": "https://image.tmdb.org/t/p/w500/gGEsB.jpg",
+    "category": "Animation",
+    "ratings": 8.4,
+    "details": "A boy journeys to the Land of the Dead to uncover his family's history.",
+    "published_date": "2017-11-22"
+  },
+  {
+    "name": "Up",
+    "image": "https://image.tmdb.org/t/p/w500/nk68W.jpg",
+    "category": "Animation",
+    "ratings": 8.2,
+    "details": "An elderly widower embarks on an adventure with a young scout.",
+    "published_date": "2009-05-29"
+  },
+  {
+    "name": "Finding Nemo",
+    "image": "https://image.tmdb.org/t/p/w500/syP.jpg",
+    "category": "Animation",
+    "ratings": 8.1,
+    "details": "A clownfish searches for his missing son in the ocean.",
+    "published_date": "2003-05-30"
+  },
+  {
+    "name": "The Incredibles",
+    "image": "https://image.tmdb.org/t/p/w500/2Lqa.jpg",
+    "category": "Animation",
+    "ratings": 8.0,
+    "details": "A family of superheroes saves the world from a villain.",
+    "published_date": "2004-11-05"
+  },
+  {
+    "name": "WALL-E",
+    "image": "https://image.tmdb.org/t/p/w500/9x.jpg",
+    "category": "Animation",
+    "ratings": 8.4,
+    "details": "A small robot with a big heart cleans up a deserted Earth.",
+    "published_date": "2008-06-27"
+  },
+  {
+    "name": "Ratatouille",
+    "image": "https://image.tmdb.org/t/p/w500/np.jpg",
+    "category": "Animation",
+    "ratings": 8.0,
+    "details": "A rat with a passion for cooking becomes a chef in Paris.",
+    "published_date": "2007-06-29"
+  },
+  {
+    "name": "Inside Out",
+    "image": "https://image.tmdb.org/t/p/w500/lR.jpg",
+    "category": "Animation",
+    "ratings": 8.1,
+    "details": "Emotions guide a young girl through a major life change.",
+    "published_date": "2015-06-19"
+  },
+  {
+    "name": "Zootopia",
+    "image": "https://image.tmdb.org/t/p/w500/sM.jpg",
+    "category": "Animation",
+    "ratings": 8.0,
+    "details": "A rabbit cop and a fox con artist solve a mystery in a mammal metropolis.",
+    "published_date": "2016-03-04"
+  },
+  {
+    "name": "Moana",
+    "image": "https://image.tmdb.org/t/p/w500/z4.jpg",
+    "category": "Animation",
+    "ratings": 7.6,
+    "details": "A young girl sets sail to save her island with a demigod's help.",
+    "published_date": "2016-11-23"
+  },
+  {
+    "name": "Frozen",
+    "image": "https://image.tmdb.org/t/p/w500/kg.jpg",
+    "category": "Animation",
+    "ratings": 7.4,
+    "details": "A fearless princess saves her sister and kingdom from eternal winter.",
+    "published_date": "2013-11-27"
+  },
+  {
+    "name": "Big Hero 6",
+    "image": "https://image.tmdb.org/t/p/w500/x.jpg",
+    "category": "Animation",
+    "ratings": 7.8,
+    "details": "A young prodigy and his robot team up to fight crime.",
+    "published_date": "2014-11-07"
+  },
+  {
+    "name": "Soul",
+    "image": "https://image.tmdb.org/t/p/w500/hm.jpg",
+    "category": "Animation",
+    "ratings": 8.0,
+    "details": "A musician discovers the meaning of life after an unexpected journey.",
+    "published_date": "2020-12-25"
+  },
+  {
+    "name": "The Empire Strikes Back",
+    "image": "https://image.tmdb.org/t/p/w500/7Ry.jpg",
+    "category": "Sci-Fi",
+    "ratings": 8.7,
+    "details": "The rebels face Darth Vader as Luke trains to become a Jedi.",
+    "published_date": "1980-05-21"
+  },
+  {
+    "name": "Return of the Jedi",
+    "image": "https://image.tmdb.org/t/p/w500/jx.jpg",
+    "category": "Sci-Fi",
+    "ratings": 8.3,
+    "details": "The rebels launch a final assault against the Empire.",
+    "published_date": "1983-05-25"
+  },
+  {
+    "name": "Jurassic Park",
+    "image": "https://image.tmdb.org/t/p/w500/oU.jpg",
+    "category": "Adventure",
+    "ratings": 8.1,
+    "details": "A theme park of cloned dinosaurs turns deadly.",
+    "published_date": "1993-06-11"
+  },
+  {
+    "name": "Back to the Future",
+    "image": "https://image.tmdb.org/t/p/w500/fNO.jpg",
+    "category": "Sci-Fi",
+    "ratings": 8.5,
+    "details": "A teen travels back in time with a quirky scientist's help.",
+    "published_date": "1985-07-03"
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "image": "https://image.tmdb.org/t/p/w500/6oom.jpg",
+    "category": "Fantasy",
+    "ratings": 8.8,
+    "details": "A hobbit carries a powerful ring to save Middle-earth.",
+    "published_date": "2001-12-19"
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "image": "https://image.tmdb.org/t/p/w500/5VT.jpg",
+    "category": "Fantasy",
+    "ratings": 8.7,
+    "details": "The fellowship continues their quest against Sauron's forces.",
+    "published_date": "2002-12-18"
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "image": "https://image.tmdb.org/t/p/w500/rC.jpg",
+    "category": "Fantasy",
+    "ratings": 8.9,
+    "details": "The final battle for Middle-earth determines its fate.",
+    "published_date": "2003-12-17"
+  },
+  {
+    "name": "Harry Potter and the Sorcerer’s Stone",
+    "image": "https://image.tmdb.org/t/p/w500/wu.jpg",
+    "category": "Fantasy",
+    "ratings": 7.6,
+    "details": "A young wizard discovers his destiny at Hogwarts.",
+    "published_date": "2001-11-16"
+  },
+  {
+    "name": "Harry Potter and the Chamber of Secrets",
+    "image": "https://image.tmdb.org/t/p/w500/sd.jpg",
+    "category": "Fantasy",
+    "ratings": 7.4,
+    "details": "Harry faces danger as a mysterious force threatens Hogwarts.",
+    "published_date": "2002-11-15"
+  },
+  {
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "image": "https://image.tmdb.org/t/p/w500/a.jpg",
+    "category": "Fantasy",
+    "ratings": 7.9,
+    "details": "Harry learns about his past as a dangerous prisoner escapes.",
+    "published_date": "2004-05-31"
+  },
+  {
+    "name": "The Social Network",
+    "image": "https://image.tmdb.org/t/p/w500/n.jpg",
+    "category": "Biography",
+    "ratings": 7.7,
+    "details": "The founding of Facebook and its creator's legal battles.",
+    "published_date": "2010-10-01"
+  },
+  {
+    "name": "Inglourious Basterds",
+    "image": "https://image.tmdb.org/t/p/w500/7.jpg",
+    "category": "War",
+    "ratings": 8.3,
+    "details": "A group of soldiers plot to assassinate Nazi leaders.",
+    "published_date": "2009-08-21"
+  },
+  {
+    "name": "No Country for Old Men",
+    "image": "https://image.tmdb.org/t/p/w500/b.jpg",
+    "category": "Thriller",
+    "ratings": 8.1,
+    "details": "A hunter stumbles upon a drug deal gone wrong and its consequences.",
+    "published_date": "2007-11-09"
+  },
+  {
+    "name": "There Will Be Blood",
+    "image": "https://image.tmdb.org/t/p/w500/f.jpg",
+    "category": "Drama",
+    "ratings": 8.2,
+    "details": "An oilman’s ambition leads to greed and betrayal.",
+    "published_date": "2007-12-26"
+  },
+  {
+    "name": "Pan’s Labyrinth",
+    "image": "https://image.tmdb.org/t/p/w500/z.jpg",
+    "category": "Fantasy",
+    "ratings": 8.2,
+    "details": "A girl escapes a brutal reality through a magical labyrinth.",
+    "published_date": "2006-10-11"
+  },
+  {
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "image": "https://image.tmdb.org/t/p/w500/5.jpg",
+    "category": "Romance",
+    "ratings": 8.3,
+    "details": "A couple erases each other from their memories, then reconnects.",
+    "published_date": "2004-03-19"
+  },
+  {
+    "name": "Memento",
+    "image": "https://image.tmdb.org/t/p/w500/y.jpg",
+    "category": "Thriller",
+    "ratings": 8.4,
+    "details": "A man with memory loss searches for his wife’s killer.",
+    "published_date": "2000-10-11"
+  },
+  {
+    "name": "Oldboy",
+    "image": "https://image.tmdb.org/t/p/w500/p.jpg",
+    "category": "Thriller",
+    "ratings": 8.4,
+    "details": "A man seeks vengeance after being mysteriously imprisoned.",
+    "published_date": "2003-11-21"
+  },
+  {
+    "name": "Princess Mononoke",
+    "image": "https://image.tmdb.org/t/p/w500/jHW.jpg",
+    "category": "Animation",
+    "ratings": 8.4,
+    "details": "A prince fights to save a forest from human destruction.",
+    "published_date": "1997-07-12"
+  },
+  {
+    "name": "Howl’s Moving Castle",
+    "image": "https://image.tmdb.org/t/p/w500/T.jpg",
+    "category": "Animation",
+    "ratings": 8.2,
+    "details": "A young woman joins a wizard in his magical castle.",
+    "published_date": "2004-11-20"
+  },
+  {
+    "name": "My Neighbor Totoro",
+    "image": "https://image.tmdb.org/t/p/w500/r.jpg",
+    "category": "Animation",
+    "ratings": 8.2,
+    "details": "Two sisters befriend magical creatures in rural Japan.",
+    "published_date": "1988-04-16"
+  },
+  {
+    "name": "Grave of the Fireflies",
+    "image": "https://image.tmdb.org/t/p/w500/q.jpg",
+    "category": "Animation",
+    "ratings": 8.5,
+    "details": "Two siblings struggle to survive in war-torn Japan.",
+    "published_date": "1988-04-16"
+  },
+  {
+    "name": "Kiki’s Delivery Service",
+    "image": "https://image.tmdb.org/t/p/w500/6.jpg",
+    "category": "Animation",
+    "ratings": 7.8,
+    "details": "A young witch starts a delivery service in a new town.",
+    "published_date": "1989-07-29"
+  },
+  {
+    "name": "Porco Rosso",
+    "image": "https://image.tmdb.org/t/p/w500/b.jpg",
+    "category": "Animation",
+    "ratings": 7.7,
+    "details": "A cursed pilot fights air pirates in the Adriatic Sea.",
+    "published_date": "1992-07-18"
+  },
+  {
+    "name": "Castle in the Sky",
+    "image": "https://image.tmdb.org/t/p/w500/n.jpg",
+    "category": "Animation",
+    "ratings": 8.0,
+    "details": "Two children search for a legendary floating castle.",
+    "published_date": "1986-08-02"
+  },
+  {
+    "name": "The Wind Rises",
+    "image": "https://image.tmdb.org/t/p/w500/j.jpg",
+    "category": "Animation",
+    "ratings": 7.8,
+    "details": "A designer dreams of building beautiful airplanes.",
+    "published_date": "2013-07-20"
+  },
+  {
+    "name": "Ponyo",
+    "image": "https://image.tmdb.org/t/p/w500/m.jpg",
+    "category": "Animation",
+    "ratings": 7.7,
+    "details": "A goldfish princess befriends a human boy.",
+    "published_date": "2008-07-19"
+  },
+  {
+    "name": "Review: Inception",
+    "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 9.0,
+    "details": "Mind-bending plot and stunning visuals. A must-watch!",
+    "published_date": "2025-01-15"
+  },
+  {
+    "name": "Review: The Dark Knight",
+    "image": "https://images.unsplash.com/photo-1531256379416-8d0553e3d0b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.8,
+    "details": "Heath Ledger’s Joker is unforgettable. Intense and gripping.",
+    "published_date": "2025-02-10"
+  },
+  {
+    "name": "Review: Spirited Away",
+    "image": "https://images.unsplash.com/photo-1616530940355-351fabd68c46?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.5,
+    "details": "A magical journey with heartwarming characters.",
+    "published_date": "2025-03-05"
+  },
+  {
+    "name": "Review: The Matrix",
+    "image": "https://images.unsplash.com/photo-1593642531955-b62e17bdaa9c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.7,
+    "details": "Revolutionary sci-fi with iconic action scenes.",
+    "published_date": "2025-04-12"
+  },
+  {
+    "name": "Review: Pulp Fiction",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.9,
+    "details": "Tarantino’s dialogue and nonlinear story are brilliant.",
+    "published_date": "2025-05-20"
+  },
+  {
+    "name": "Review: Forrest Gump",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.6,
+    "details": "Heartfelt and inspiring. Tom Hanks is phenomenal.",
+    "published_date": "2025-06-01"
+  },
+  {
+    "name": "Review: Avengers: Endgame",
+    "image": "https://images.unsplash.com/photo-1569982175971-d92b01cf8694?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.3,
+    "details": "Epic conclusion to the MCU saga. Emotional and action-packed.",
+    "published_date": "2025-06-10"
+  },
+  {
+    "name": "Review: Parasite",
+    "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2962c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.7,
+    "details": "A masterful blend of humor, drama, and social commentary.",
+    "published_date": "2025-06-15"
+  },
+  {
+    "name": "Review: Titanic",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 7.9,
+    "details": "A timeless love story with breathtaking visuals.",
+    "published_date": "2025-06-20"
+  },
+  {
+    "name": "Review: Interstellar",
+    "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.5,
+    "details": "A thought-provoking space epic with stunning effects.",
+    "published_date": "2025-06-25"
+  },
+  {
+    "name": "Review: The Shawshank Redemption",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 9.2,
+    "details": "A powerful story of hope and friendship.",
+    "published_date": "2025-06-30"
+  },
+  {
+    "name": "Review: Fight Club",
+    "image": "https://images.unsplash.com/photo-1522093007474-2a8d37d2e4b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.7,
+    "details": "Dark, thrilling, and full of surprises.",
+    "published_date": "2025-07-05"
+  },
+  {
+    "name": "Review: Star Wars: Episode IV",
+    "image": "https://images.unsplash.com/photo-1534802046520-4f27d54d8b07?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.6,
+    "details": "A classic sci-fi adventure that never gets old.",
+    "published_date": "2025-07-10"
+  },
+  {
+    "name": "Review: The Godfather",
+    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 9.1,
+    "details": "A cinematic masterpiece of power and family.",
+    "published_date": "2025-07-15"
+  },
+  {
+    "name": "Review: La La Land",
+    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.0,
+    "details": "A dreamy musical with vibrant energy.",
+    "published_date": "2025-07-20"
+  },
+  {
+    "name": "Review: Joker",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.3,
+    "details": "Joaquin Phoenix delivers a haunting performance.",
+    "published_date": "2025-07-25"
+  },
+  {
+    "name": "Review: Blade Runner 2049",
+    "image": "https://images.unsplash.com/photo-1518837695005-208d6081666c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.1,
+    "details": "Visually stunning but a bit slow-paced.",
+    "published_date": "2025-07-30"
+  },
+  {
+    "name": "Review: The Lion King",
+    "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e206?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.4,
+    "details": "A timeless animated classic with emotional depth.",
+    "published_date": "2025-08-01"
+  },
+  {
+    "name": "Review: Mad Max: Fury Road",
+    "image": "https://images.unsplash.com/photo-1519985176271-2a0e1c4f4c4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.2,
+    "details": "Non-stop action and breathtaking visuals.",
+    "published_date": "2025-08-05"
+  },
+  {
+    "name": "Review: The Grand Budapest Hotel",
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0f8d0f07?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Review",
+    "ratings": 8.0,
+    "details": "Wes Anderson’s quirky style shines through.",
+    "published_date": "2025-08-10"
+  },
+  {
+    "name": "Best Sci-Fi Movies of All Time?",
+    "image": "https://images.unsplash.com/photo-1533613220915-7a7e7f1a9b1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Sci-Fi",
+    "ratings": 4.5,
+    "details": "Let’s discuss the greatest sci-fi films! My picks: The Matrix, Blade Runner.",
+    "published_date": "2025-08-15"
+  },
+  {
+    "name": "Favorite Ghibli Films",
+    "image": "https://images.unsplash.com/photo-1616530940355-351fabd68c46?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Animation",
+    "ratings": 4.8,
+    "details": "Spirited Away or Princess Mononoke? Which Ghibli film is your favorite?",
+    "published_date": "2025-08-20"
+  },
+  {
+    "name": "Underrated Movies to Watch",
+    "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2962c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "General",
+    "ratings": 4.2,
+    "details": "Share your hidden gem movie recommendations!",
+    "published_date": "2025-08-25"
+  },
+  {
+    "name": "Best Movie Soundtracks",
+    "image": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Music",
+    "ratings": 4.6,
+    "details": "What movie soundtracks give you chills? I love Interstellar’s score!",
+    "published_date": "2025-08-30"
+  },
+  {
+    "name": "Marvel vs. DC Movies",
+    "image": "https://images.unsplash.com/photo-1569982175971-d92b01cf8694?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Superhero",
+    "ratings": 4.4,
+    "details": "Which franchise does it better? Let’s debate!",
+    "published_date": "2025-09-01"
+  },
+  {
+    "name": "Top Horror Movies for Halloween",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "Horror",
+    "ratings": 4.3,
+    "details": "Getting ready for spooky season. What’s your scariest movie pick?",
+    "published_date": "2025-09-05"
+  },
+  {
+    "name": "Classic vs. Modern Cinema",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "General",
+    "ratings": 4.5,
+    "details": "Do you prefer old classics or new blockbusters? Why?",
+    "published_date": "2025-09-10"
+  },
+  {
+    "name": "Best Movie Villains",
+    "image": "https://images.unsplash.com/photo-1522093007474-2a8d37d2e4b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "General",
+    "ratings": 4.7,
+    "details": "Who’s the ultimate movie villain? I vote for Darth Vader!",
+    "published_date": "2025-09-15"
+  },
+  {
+    "name": "Movie Night Ideas",
+    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "General",
+    "ratings": 4.4,
+    "details": "Planning a movie night. What themes or movies should I pick?",
+    "published_date": "2025-09-20"
+  },
+  {
+    "name": "Favorite Movie Quotes",
+    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "category": "General",
+    "ratings": 4.6,
+    "details": "Share your favorite movie lines! Mine’s from The Godfather.",
+    "published_date": "2025-09-25"
+  }
+]

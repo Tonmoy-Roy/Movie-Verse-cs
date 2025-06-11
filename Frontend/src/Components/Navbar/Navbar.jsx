@@ -1,10 +1,14 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import moment from 'moment';
 
+
+moment().format();
 const Navbar = () => {
+    const currentDateTime = moment().format('MMMM Do YYYY, h:mm');
     const links = <>
-        <li><NavLink>Home</NavLink></li>
-        <li><NavLink>Trending</NavLink></li>
+        <li><NavLink><p>Home</p></NavLink></li>
+        <li><NavLink to="/movies"><p>Movies</p></NavLink></li>
     </>
     return (
         <div className="navbar bg-base-100 shadow-sm bg-black text-white rounded">
@@ -15,31 +19,17 @@ const Navbar = () => {
                     </div>
                     <ul
                         tabIndex={0}
-                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                        <li>
-                            <a>Genres</a>
-                            <ul className="p-2 text-black">
-                                <li><a>Action</a></li>
-                                <li><a>Adveneture</a></li>
-                            </ul>
-                        </li>
+                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow text-black">
+                        {links}
 
                     </ul>
                 </div>
                 <p className="text-xl">Movie Verse</p>
+                {/* <p>{currentDateTime}</p> */}
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 ">
                     {links}
-                    <li>
-                        <details>
-                            <summary>Genres</summary>
-                            <ul className="p-2 text-black">
-                                <li><a>Action</a></li>
-                                <li><a>Adveneture</a></li>
-                            </ul>
-                        </details>
-                    </li>
                 </ul>
             </div>
             <div className="navbar-end">
