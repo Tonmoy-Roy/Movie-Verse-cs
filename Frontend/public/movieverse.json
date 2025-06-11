@@ -1,7 +1,7 @@
 [
   {
     "name": "Inception",
-    "image": "https://image.tmdb.org/t/p/w500/edv5CZvWj09up0r1xXyHlTTiu2h.jpg",
+    "image": "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Sci-Fi",
     "ratings": 8.8,
     "details": "A thief with the ability to enter dreams must steal a secret from a dangerous mind.",
@@ -9,7 +9,7 @@
   },
   {
     "name": "The Dark Knight",
-    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a8?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Action",
     "ratings": 9.0,
     "details": "Batman faces the Joker, a criminal mastermind wreaking havoc in Gotham.",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Spirited Away",
-    "image": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.6,
     "details": "A young girl navigates a magical world to save her parents.",
@@ -25,7 +25,7 @@
   },
   {
     "name": "The Matrix",
-    "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5d.jpg",
+    "image": "https://images.unsplash.com/photo-1501084815130-a1c9f2f9db78?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Sci-Fi",
     "ratings": 8.7,
     "details": "A hacker discovers reality is a simulation controlled by machines.",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Pulp Fiction",
-    "image": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8io7PMb.jpg",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Crime",
     "ratings": 8.9,
     "details": "Intertwined stories of crime and redemption in Los Angeles.",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Forrest Gump",
-    "image": "https://image.tmdb.org/t/p/w500/saHP97rE1bl8v7A5o2aK.jpg",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Drama",
     "ratings": 8.8,
     "details": "A man with a low IQ experiences extraordinary events in American history.",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Avengers: Endgame",
-    "image": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "image": "https://images.unsplash.com/photo-1569131505080-2b5f1e5a8c2c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Action",
     "ratings": 8.4,
     "details": "The Avengers unite to reverse Thanos' catastrophic snap.",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Parasite",
-    "image": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Drama",
     "ratings": 8.6,
     "details": "A poor family infiltrates a wealthy household with unforeseen consequences.",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Titanic",
-    "image": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Romance",
     "ratings": 7.8,
     "details": "A love story unfolds aboard the ill-fated Titanic.",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Interstellar",
-    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Sci-Fi",
     "ratings": 8.6,
     "details": "A team of explorers travels through a wormhole to save humanity.",
@@ -81,7 +81,7 @@
   },
   {
     "name": "The Shawshank Redemption",
-    "image": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Drama",
     "ratings": 9.3,
     "details": "A banker wrongfully imprisoned forms a bond with a fellow inmate.",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Fight Club",
-    "image": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "image": "https://images.unsplash.com/photo-1522093007474-2a8d37d2e4b8?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Thriller",
     "ratings": 8.8,
     "details": "An insomniac forms an underground fight club with a mysterious stranger.",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Star Wars: Episode IV - A New Hope",
-    "image": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "image": "https://images.unsplash.com/photo-1534802046520-4f27d54d8b07?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Sci-Fi",
     "ratings": 8.6,
     "details": "A young farm boy joins a rebellion against an evil empire.",
@@ -105,7 +105,7 @@
   },
   {
     "name": "The Godfather",
-    "image": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Crime",
     "ratings": 9.2,
     "details": "The aging patriarch of a mafia family transfers control to his son.",
@@ -113,7 +113,7 @@
   },
   {
     "name": "La La Land",
-    "image": "https://image.tmdb.org/t/p/w500/uJHkDJnV8P3j7j5RmuJ5sW0Vq.jpg",
+    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Romance",
     "ratings": 8.0,
     "details": "A musician and an actress pursue their dreams and love in Los Angeles.",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Joker",
-    "image": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Drama",
     "ratings": 8.4,
     "details": "A failed comedian descends into madness in Gotham City.",
@@ -129,7 +129,7 @@
   },
   {
     "name": "Blade Runner 2049",
-    "image": "https://image.tmdb.org/t/p/w500/gAjfZqG6oV4U3b3x8Bn3iC6r.jpg",
+    "image": "https://images.unsplash.com/photo-1518837695005-208d6081666c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Sci-Fi",
     "ratings": 8.0,
     "details": "A replicant hunter uncovers a secret that threatens society.",
@@ -137,7 +137,7 @@
   },
   {
     "name": "The Lion King",
-    "image": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e206?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.5,
     "details": "A young lion prince reclaims his kingdom from his treacherous uncle.",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Mad Max: Fury Road",
-    "image": "https://image.tmdb.org/t/p/w500/8tZYtuZyq1w.jpg",
+    "image": "https://images.unsplash.com/photo-1519985176271-2a0e1c4f4c4b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Action",
     "ratings": 8.1,
     "details": "In a post-apocalyptic wasteland, a drifter and a rebel fight for survival.",
@@ -153,7 +153,7 @@
   },
   {
     "name": "The Grand Budapest Hotel",
-    "image": "https://image.tmdb.org/t/p/w500/nX5XotM9utcyYwo7p0e1EzTZ0i.jpg",
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0f8d0f07?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Comedy",
     "ratings": 8.1,
     "details": "A concierge and his lobby boy embark on a whimsical adventure.",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Whiplash",
-    "image": "https://image.tmdb.org/t/p/w500/6uSPcdGNg3g5.jpg",
+    "image": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Drama",
     "ratings": 8.5,
     "details": "A young drummer pushes his limits under a demanding instructor.",
@@ -169,7 +169,7 @@
   },
   {
     "name": "The Avengers",
-    "image": "https://image.tmdb.org/t/p/w500/4ssDuvW6F2zL.jpg",
+    "image": "https://images.unsplash.com/photo-1569131505080-2b5f1e5a8c2c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Action",
     "ratings": 8.0,
     "details": "Earth's mightiest heroes unite to stop an alien invasion.",
@@ -177,7 +177,7 @@
   },
   {
     "name": "Gladiator",
-    "image": "https://image.tmdb.org/t/p/w500/6WBIzCgm8D.jpg",
+    "image": "https://images.unsplash.com/photo-1501084815130-a1c9f2f9db78?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Action",
     "ratings": 8.5,
     "details": "A Roman general seeks revenge against a corrupt emperor.",
@@ -185,7 +185,7 @@
   },
   {
     "name": "The Departed",
-    "image": "https://image.tmdb.org/t/p/w500/kWWAt2FMRP.jpg",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Crime",
     "ratings": 8.5,
     "details": "An undercover cop and a mole infiltrate each other's worlds.",
@@ -193,7 +193,7 @@
   },
   {
     "name": "Django Unchained",
-    "image": "https://image.tmdb.org/t/p/w500/7oWY8VDWW7.jpg",
+    "image": "https://images.unsplash.com/photo-1519985176271-2a0e1c4f4c4b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Western",
     "ratings": 8.4,
     "details": "A freed slave teams up with a bounty hunter to rescue his wife.",
@@ -201,7 +201,7 @@
   },
   {
     "name": "The Wolf of Wall Street",
-    "image": "https://image.tmdb.org/t/p/w500/sOxr33wn.png",
+    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Biography",
     "ratings": 8.2,
     "details": "A stockbroker's rise and fall in a world of excess.",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Shutter Island",
-    "image": "https://image.tmdb.org/t/p/w500/kve20tX.jpg",
+    "image": "https://images.unsplash.com/photo-1522093007474-2a8d37d2e4b8?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Thriller",
     "ratings": 8.2,
     "details": "A U.S. Marshal investigates a disappearance on a remote island.",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Toy Story",
-    "image": "https://image.tmdb.org/t/p/w500/uXDfy.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.3,
     "details": "A cowboy doll faces rivalry with a new space ranger toy.",
@@ -225,7 +225,7 @@
   },
   {
     "name": "Coco",
-    "image": "https://image.tmdb.org/t/p/w500/gGEsB.jpg",
+    "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e206?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.4,
     "details": "A boy journeys to the Land of the Dead to uncover his family's history.",
@@ -233,7 +233,7 @@
   },
   {
     "name": "Up",
-    "image": "https://image.tmdb.org/t/p/w500/nk68W.jpg",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.2,
     "details": "An elderly widower embarks on an adventure with a young scout.",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Finding Nemo",
-    "image": "https://image.tmdb.org/t/p/w500/syP.jpg",
+    "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.1,
     "details": "A clownfish searches for his missing son in the ocean.",
@@ -249,7 +249,7 @@
   },
   {
     "name": "The Incredibles",
-    "image": "https://image.tmdb.org/t/p/w500/2Lqa.jpg",
+    "image": "https://images.unsplash.com/photo-1569131505080-2b5f1e5a8c2c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.0,
     "details": "A family of superheroes saves the world from a villain.",
@@ -257,7 +257,7 @@
   },
   {
     "name": "WALL-E",
-    "image": "https://image.tmdb.org/t/p/w500/9x.jpg",
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a8?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.4,
     "details": "A small robot with a big heart cleans up a deserted Earth.",
@@ -265,7 +265,7 @@
   },
   {
     "name": "Ratatouille",
-    "image": "https://image.tmdb.org/t/p/w500/np.jpg",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.0,
     "details": "A rat with a passion for cooking becomes a chef in Paris.",
@@ -273,7 +273,7 @@
   },
   {
     "name": "Inside Out",
-    "image": "https://image.tmdb.org/t/p/w500/lR.jpg",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.1,
     "details": "Emotions guide a young girl through a major life change.",
@@ -281,7 +281,7 @@
   },
   {
     "name": "Zootopia",
-    "image": "https://image.tmdb.org/t/p/w500/sM.jpg",
+    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.0,
     "details": "A rabbit cop and a fox con artist solve a mystery in a mammal metropolis.",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Moana",
-    "image": "https://image.tmdb.org/t/p/w500/z4.jpg",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 7.6,
     "details": "A young girl sets sail to save her island with a demigod's help.",
@@ -297,7 +297,7 @@
   },
   {
     "name": "Frozen",
-    "image": "https://image.tmdb.org/t/p/w500/kg.jpg",
+    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 7.4,
     "details": "A fearless princess saves her sister and kingdom from eternal winter.",
@@ -305,7 +305,7 @@
   },
   {
     "name": "Big Hero 6",
-    "image": "https://image.tmdb.org/t/p/w500/x.jpg",
+    "image": "https://images.unsplash.com/photo-1534802046520-4f27d54d8b07?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 7.8,
     "details": "A young prodigy and his robot team up to fight crime.",
@@ -313,7 +313,7 @@
   },
   {
     "name": "Soul",
-    "image": "https://image.tmdb.org/t/p/w500/hm.jpg",
+    "image": "https://images.unsplash.com/photo-1518837695005-208d6081666c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.0,
     "details": "A musician discovers the meaning of life after an unexpected journey.",
@@ -321,7 +321,7 @@
   },
   {
     "name": "The Empire Strikes Back",
-    "image": "https://image.tmdb.org/t/p/w500/7Ry.jpg",
+    "image": "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Sci-Fi",
     "ratings": 8.7,
     "details": "The rebels face Darth Vader as Luke trains to become a Jedi.",
@@ -329,7 +329,7 @@
   },
   {
     "name": "Return of the Jedi",
-    "image": "https://image.tmdb.org/t/p/w500/jx.jpg",
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a8?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Sci-Fi",
     "ratings": 8.3,
     "details": "The rebels launch a final assault against the Empire.",
@@ -337,7 +337,7 @@
   },
   {
     "name": "Jurassic Park",
-    "image": "https://image.tmdb.org/t/p/w500/oU.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Adventure",
     "ratings": 8.1,
     "details": "A theme park of cloned dinosaurs turns deadly.",
@@ -345,7 +345,7 @@
   },
   {
     "name": "Back to the Future",
-    "image": "https://image.tmdb.org/t/p/w500/fNO.jpg",
+    "image": "https://images.unsplash.com/photo-1501084815130-a1c9f2f9db78?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Sci-Fi",
     "ratings": 8.5,
     "details": "A teen travels back in time with a quirky scientist's help.",
@@ -353,7 +353,7 @@
   },
   {
     "name": "The Lord of the Rings: The Fellowship of the Ring",
-    "image": "https://image.tmdb.org/t/p/w500/6oom.jpg",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Fantasy",
     "ratings": 8.8,
     "details": "A hobbit carries a powerful ring to save Middle-earth.",
@@ -361,7 +361,7 @@
   },
   {
     "name": "The Lord of the Rings: The Two Towers",
-    "image": "https://image.tmdb.org/t/p/w500/5VT.jpg",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Fantasy",
     "ratings": 8.7,
     "details": "The fellowship continues their quest against Sauron's forces.",
@@ -369,7 +369,7 @@
   },
   {
     "name": "The Lord of the Rings: The Return of the King",
-    "image": "https://image.tmdb.org/t/p/w500/rC.jpg",
+    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Fantasy",
     "ratings": 8.9,
     "details": "The final battle for Middle-earth determines its fate.",
@@ -377,7 +377,7 @@
   },
   {
     "name": "Harry Potter and the Sorcerer’s Stone",
-    "image": "https://image.tmdb.org/t/p/w500/wu.jpg",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Fantasy",
     "ratings": 7.6,
     "details": "A young wizard discovers his destiny at Hogwarts.",
@@ -385,7 +385,7 @@
   },
   {
     "name": "Harry Potter and the Chamber of Secrets",
-    "image": "https://image.tmdb.org/t/p/w500/sd.jpg",
+    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Fantasy",
     "ratings": 7.4,
     "details": "Harry faces danger as a mysterious force threatens Hogwarts.",
@@ -393,7 +393,7 @@
   },
   {
     "name": "Harry Potter and the Prisoner of Azkaban",
-    "image": "https://image.tmdb.org/t/p/w500/a.jpg",
+    "image": "https://images.unsplash.com/photo-1534802046520-4f27d54d8b07?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Fantasy",
     "ratings": 7.9,
     "details": "Harry learns about his past as a dangerous prisoner escapes.",
@@ -401,7 +401,7 @@
   },
   {
     "name": "The Social Network",
-    "image": "https://image.tmdb.org/t/p/w500/n.jpg",
+    "image": "https://images.unsplash.com/photo-1518837695005-208d6081666c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Biography",
     "ratings": 7.7,
     "details": "The founding of Facebook and its creator's legal battles.",
@@ -409,7 +409,7 @@
   },
   {
     "name": "Inglourious Basterds",
-    "image": "https://image.tmdb.org/t/p/w500/7.jpg",
+    "image": "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "War",
     "ratings": 8.3,
     "details": "A group of soldiers plot to assassinate Nazi leaders.",
@@ -417,7 +417,7 @@
   },
   {
     "name": "No Country for Old Men",
-    "image": "https://image.tmdb.org/t/p/w500/b.jpg",
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a8?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Thriller",
     "ratings": 8.1,
     "details": "A hunter stumbles upon a drug deal gone wrong and its consequences.",
@@ -425,7 +425,7 @@
   },
   {
     "name": "There Will Be Blood",
-    "image": "https://image.tmdb.org/t/p/w500/f.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Drama",
     "ratings": 8.2,
     "details": "An oilman’s ambition leads to greed and betrayal.",
@@ -433,7 +433,7 @@
   },
   {
     "name": "Pan’s Labyrinth",
-    "image": "https://image.tmdb.org/t/p/w500/z.jpg",
+    "image": "https://images.unsplash.com/photo-1501084815130-a1c9f2f9db78?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Fantasy",
     "ratings": 8.2,
     "details": "A girl escapes a brutal reality through a magical labyrinth.",
@@ -441,7 +441,7 @@
   },
   {
     "name": "Eternal Sunshine of the Spotless Mind",
-    "image": "https://image.tmdb.org/t/p/w500/5.jpg",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Romance",
     "ratings": 8.3,
     "details": "A couple erases each other from their memories, then reconnects.",
@@ -449,7 +449,7 @@
   },
   {
     "name": "Memento",
-    "image": "https://image.tmdb.org/t/p/w500/y.jpg",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Thriller",
     "ratings": 8.4,
     "details": "A man with memory loss searches for his wife’s killer.",
@@ -457,7 +457,7 @@
   },
   {
     "name": "Oldboy",
-    "image": "https://image.tmdb.org/t/p/w500/p.jpg",
+    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Thriller",
     "ratings": 8.4,
     "details": "A man seeks vengeance after being mysteriously imprisoned.",
@@ -465,7 +465,7 @@
   },
   {
     "name": "Princess Mononoke",
-    "image": "https://image.tmdb.org/t/p/w500/jHW.jpg",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.4,
     "details": "A prince fights to save a forest from human destruction.",
@@ -473,7 +473,7 @@
   },
   {
     "name": "Howl’s Moving Castle",
-    "image": "https://image.tmdb.org/t/p/w500/T.jpg",
+    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.2,
     "details": "A young woman joins a wizard in his magical castle.",
@@ -481,7 +481,7 @@
   },
   {
     "name": "My Neighbor Totoro",
-    "image": "https://image.tmdb.org/t/p/w500/r.jpg",
+    "image": "https://images.unsplash.com/photo-1534802046520-4f27d54d8b07?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.2,
     "details": "Two sisters befriend magical creatures in rural Japan.",
@@ -489,7 +489,7 @@
   },
   {
     "name": "Grave of the Fireflies",
-    "image": "https://image.tmdb.org/t/p/w500/q.jpg",
+    "image": "https://images.unsplash.com/photo-1518837695005-208d6081666c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.5,
     "details": "Two siblings struggle to survive in war-torn Japan.",
@@ -497,7 +497,7 @@
   },
   {
     "name": "Kiki’s Delivery Service",
-    "image": "https://image.tmdb.org/t/p/w500/6.jpg",
+    "image": "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 7.8,
     "details": "A young witch starts a delivery service in a new town.",
@@ -505,7 +505,7 @@
   },
   {
     "name": "Porco Rosso",
-    "image": "https://image.tmdb.org/t/p/w500/b.jpg",
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a8?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 7.7,
     "details": "A cursed pilot fights air pirates in the Adriatic Sea.",
@@ -513,7 +513,7 @@
   },
   {
     "name": "Castle in the Sky",
-    "image": "https://image.tmdb.org/t/p/w500/n.jpg",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 8.0,
     "details": "Two children search for a legendary floating castle.",
@@ -521,7 +521,7 @@
   },
   {
     "name": "The Wind Rises",
-    "image": "https://image.tmdb.org/t/p/w500/j.jpg",
+    "image": "https://images.unsplash.com/photo-1501084815130-a1c9f2f9db78?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 7.8,
     "details": "A designer dreams of building beautiful airplanes.",
@@ -529,7 +529,7 @@
   },
   {
     "name": "Ponyo",
-    "image": "https://image.tmdb.org/t/p/w500/m.jpg",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 7.7,
     "details": "A goldfish princess befriends a human boy.",
@@ -537,7 +537,7 @@
   },
   {
     "name": "Review: Inception",
-    "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1594909122845-11baa439b7a2?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 9.0,
     "details": "Mind-bending plot and stunning visuals. A must-watch!",
@@ -545,7 +545,7 @@
   },
   {
     "name": "Review: The Dark Knight",
-    "image": "https://images.unsplash.com/photo-1531256379416-8d0553e3d0b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1531256379416-8d0553e3d0b2?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.8,
     "details": "Heath Ledger’s Joker is unforgettable. Intense and gripping.",
@@ -553,7 +553,7 @@
   },
   {
     "name": "Review: Spirited Away",
-    "image": "https://images.unsplash.com/photo-1616530940355-351fabd68c46?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1616530940355-351fabd68c46?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.5,
     "details": "A magical journey with heartwarming characters.",
@@ -561,7 +561,7 @@
   },
   {
     "name": "Review: The Matrix",
-    "image": "https://images.unsplash.com/photo-1593642531955-b62e17bdaa9c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1593642531955-b62e17bdaa9c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.7,
     "details": "Revolutionary sci-fi with iconic action scenes.",
@@ -569,7 +569,7 @@
   },
   {
     "name": "Review: Pulp Fiction",
-    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.9,
     "details": "Tarantino’s dialogue and nonlinear story are brilliant.",
@@ -577,7 +577,7 @@
   },
   {
     "name": "Review: Forrest Gump",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.6,
     "details": "Heartfelt and inspiring. Tom Hanks is phenomenal.",
@@ -585,7 +585,7 @@
   },
   {
     "name": "Review: Avengers: Endgame",
-    "image": "https://images.unsplash.com/photo-1569982175971-d92b01cf8694?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1569982175971-d92b01cf8694?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.3,
     "details": "Epic conclusion to the MCU saga. Emotional and action-packed.",
@@ -593,7 +593,7 @@
   },
   {
     "name": "Review: Parasite",
-    "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2962c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2962c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.7,
     "details": "A masterful blend of humor, drama, and social commentary.",
@@ -601,7 +601,7 @@
   },
   {
     "name": "Review: Titanic",
-    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 7.9,
     "details": "A timeless love story with breathtaking visuals.",
@@ -609,7 +609,7 @@
   },
   {
     "name": "Review: Interstellar",
-    "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.5,
     "details": "A thought-provoking space epic with stunning effects.",
@@ -617,7 +617,7 @@
   },
   {
     "name": "Review: The Shawshank Redemption",
-    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 9.2,
     "details": "A powerful story of hope and friendship.",
@@ -625,7 +625,7 @@
   },
   {
     "name": "Review: Fight Club",
-    "image": "https://images.unsplash.com/photo-1522093007474-2a8d37d2e4b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1522093007474-2a8d37d2e4b8?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.7,
     "details": "Dark, thrilling, and full of surprises.",
@@ -633,7 +633,7 @@
   },
   {
     "name": "Review: Star Wars: Episode IV",
-    "image": "https://images.unsplash.com/photo-1534802046520-4f27d54d8b07?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1534802046520-4f27d54d8b07?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.6,
     "details": "A classic sci-fi adventure that never gets old.",
@@ -641,7 +641,7 @@
   },
   {
     "name": "Review: The Godfather",
-    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 9.1,
     "details": "A cinematic masterpiece of power and family.",
@@ -649,7 +649,7 @@
   },
   {
     "name": "Review: La La Land",
-    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.0,
     "details": "A dreamy musical with vibrant energy.",
@@ -657,7 +657,7 @@
   },
   {
     "name": "Review: Joker",
-    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.3,
     "details": "Joaquin Phoenix delivers a haunting performance.",
@@ -665,7 +665,7 @@
   },
   {
     "name": "Review: Blade Runner 2049",
-    "image": "https://images.unsplash.com/photo-1518837695005-208d6081666c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1518837695005-208d6081666c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.1,
     "details": "Visually stunning but a bit slow-paced.",
@@ -673,7 +673,7 @@
   },
   {
     "name": "Review: The Lion King",
-    "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e206?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e206?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.4,
     "details": "A timeless animated classic with emotional depth.",
@@ -681,7 +681,7 @@
   },
   {
     "name": "Review: Mad Max: Fury Road",
-    "image": "https://images.unsplash.com/photo-1519985176271-2a0e1c4f4c4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1519985176271-2a0e1c4f4c4b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.2,
     "details": "Non-stop action and breathtaking visuals.",
@@ -689,7 +689,7 @@
   },
   {
     "name": "Review: The Grand Budapest Hotel",
-    "image": "https://images.unsplash.com/photo-1519125323398-675f0f8d0f07?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0f8d0f07?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Review",
     "ratings": 8.0,
     "details": "Wes Anderson’s quirky style shines through.",
@@ -697,7 +697,7 @@
   },
   {
     "name": "Best Sci-Fi Movies of All Time?",
-    "image": "https://images.unsplash.com/photo-1533613220915-7a7e7f1a9b1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1533613220915-7a7e7f1a9b1b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Sci-Fi",
     "ratings": 4.5,
     "details": "Let’s discuss the greatest sci-fi films! My picks: The Matrix, Blade Runner.",
@@ -705,7 +705,7 @@
   },
   {
     "name": "Favorite Ghibli Films",
-    "image": "https://images.unsplash.com/photo-1616530940355-351fabd68c46?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1616530940355-351fabd68c46?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Animation",
     "ratings": 4.8,
     "details": "Spirited Away or Princess Mononoke? Which Ghibli film is your favorite?",
@@ -713,7 +713,7 @@
   },
   {
     "name": "Underrated Movies to Watch",
-    "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2962c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2962c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "General",
     "ratings": 4.2,
     "details": "Share your hidden gem movie recommendations!",
@@ -721,7 +721,7 @@
   },
   {
     "name": "Best Movie Soundtracks",
-    "image": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Music",
     "ratings": 4.6,
     "details": "What movie soundtracks give you chills? I love Interstellar’s score!",
@@ -729,7 +729,7 @@
   },
   {
     "name": "Marvel vs. DC Movies",
-    "image": "https://images.unsplash.com/photo-1569982175971-d92b01cf8694?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1569982175971-d92b01cf8694?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Superhero",
     "ratings": 4.4,
     "details": "Which franchise does it better? Let’s debate!",
@@ -737,7 +737,7 @@
   },
   {
     "name": "Top Horror Movies for Halloween",
-    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "Horror",
     "ratings": 4.3,
     "details": "Getting ready for spooky season. What’s your scariest movie pick?",
@@ -745,7 +745,7 @@
   },
   {
     "name": "Classic vs. Modern Cinema",
-    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c6305c?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "General",
     "ratings": 4.5,
     "details": "Do you prefer old classics or new blockbusters? Why?",
@@ -753,7 +753,7 @@
   },
   {
     "name": "Best Movie Villains",
-    "image": "https://images.unsplash.com/photo-1522093007474-2a8d37d2e4b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1522093007474-2a8d37d2e4b8?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "General",
     "ratings": 4.7,
     "details": "Who’s the ultimate movie villain? I vote for Darth Vader!",
@@ -761,7 +761,7 @@
   },
   {
     "name": "Movie Night Ideas",
-    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "General",
     "ratings": 4.4,
     "details": "Planning a movie night. What themes or movies should I pick?",
@@ -769,7 +769,7 @@
   },
   {
     "name": "Favorite Movie Quotes",
-    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixlib=rb-4.0.3&w=500&auto=format&fit=crop&q=80",
     "category": "General",
     "ratings": 4.6,
     "details": "Share your favorite movie lines! Mine’s from The Godfather.",
