@@ -5,15 +5,15 @@ const CategoryMovies = () => {
     const [movies] = UseMovies();
     const actions = movies.filter(items => items.category === 'Action')
     const dramas = movies.filter(items => items.category === 'Drama')
-    const comedys = movies.filter(items => items.category === 'Comedy')
+    const crimes = movies.filter(items => items.category === 'Crime')
     const thrillers = movies.filter(items => items.category === 'Thriller')
     const romances = movies.filter(items => items.category === 'Romance')
-    const documentarys = movies.filter(items => items.category === 'Documentary')
+    const animations = movies.filter(items => items.category === 'Animation')
     const fictions = movies.filter(items => items.category === 'Sci-Fi')
     const fanatasy = movies.filter(items => items.category === 'Fantasy')
 
     return (
-        <div>
+        <div className='mt-5'>
             <p className='font-bold text-3xl mb-2'>Category : Action</p>
             <div className='md:grid grid-cols-3'>
                 {
@@ -30,10 +30,10 @@ const CategoryMovies = () => {
             </div>
             <p className='divider'></p>
 
-            <p className='font-bold text-3xl mb-2'>Category : Comedy</p>
+            <p className='font-bold text-3xl mb-2'>Category : Crimes</p>
             <div className='md:grid grid-cols-3'>
                 {
-                    comedys.map(movie => <DetailsMovie movie={movie}></DetailsMovie>)
+                    crimes.map(movie => <DetailsMovie movie={movie}></DetailsMovie>)
                 }
             </div>
             <p className='divider'></p>
@@ -54,10 +54,10 @@ const CategoryMovies = () => {
             </div>
             <p className='divider'></p>
 
-            <p className='font-bold text-3xl mb-2'>Category : Documentary</p>
+            <p className='font-bold text-3xl mb-2'>Category : Animation</p>
             <div className='md:grid grid-cols-3'>
                 {
-                    documentarys.map(movie => <DetailsMovie movie={movie}></DetailsMovie>)
+                    animations.map(movie => <DetailsMovie movie={movie}></DetailsMovie>)
                 }
             </div>
             <p className='divider'></p>

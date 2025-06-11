@@ -3,7 +3,7 @@ import banner3 from "../../../src/assets/Home/jakob-owens-CiUR8zISX60-unsplash.j
 
 const Movie = ({ movie = {} }) => {
     return (
-        <div className="card bg-base-100 w-96 shadow-sm">
+        <div className="card bg-base-100 shadow-sm">
             <figure>
                 <img
                     src={banner3}

@@ -5,7 +5,7 @@ import { useState } from 'react';
 const UseMovies = () => {
     const [movies, setMovies] = useState([]);
     useEffect(() => {
-        fetch('movieverse.json')
+        fetch('http://localhost:5000/movielist')
             .then(res => res.json())
             .then(data => setMovies(data))
     }, [])
