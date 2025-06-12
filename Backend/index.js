@@ -22,9 +22,19 @@ async function run() {
         // Connect the client to the server	(optional starting in v4.7)
         await client.connect();
         const moviesCollection = client.db('Movie-Verse').collection('movielist');
+        const usersCollection = client.db('Movie-Verse').collection('userslist');
 
         app.get('/movielist', async (req, res) => {
             const result = await moviesCollection.find().toArray();
+            res.send(result);
+        })
+        app.post('/userslist', async (req, res) => {
+            const users = req.body;
+            const result = await usersCollection.insertOne(users);
+            res.send(result);
+        })
+        app.get('/userslist', async (req, res) => {
+            const result = await usersCollection.find().toArray();
             res.send(result);
         })
 
