@@ -1,17 +1,21 @@
-import React from 'react';
-import { NavLink } from 'react-router-dom';
+import React, { useContext } from 'react';
+import { Link, NavLink } from 'react-router-dom';
 import moment from 'moment';
+import { AuthContext } from '../Provider/AuthProvider';
 
 
 moment().format();
 const Navbar = () => {
+    const { user, signoutUser } = useContext(AuthContext);
     const currentDateTime = moment().format('MMMM Do YYYY, h:mm');
     const links = <>
         <li><NavLink><p>Home</p></NavLink></li>
         <li><NavLink to="/movies"><p>Movies</p></NavLink></li>
+        <li><NavLink to="/register"><p>Register</p></NavLink></li>
     </>
     return (
         <div className="navbar bg-base-100 shadow-sm bg-black text-white rounded">
+            <p className="font-bold">Movie Verse</p>
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -24,7 +28,6 @@ const Navbar = () => {
 
                     </ul>
                 </div>
-                <p className="text-xl">Movie Verse</p>
                 {/* <p>{currentDateTime}</p> */}
             </div>
             <div className="navbar-center hidden lg:flex">
@@ -33,7 +36,20 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn btn-primary">Login</a>
+                {
+                    user && user.email ?
+                        <div className='md:flex mr-[8vw] md:w-[15vw]'>
+                            <div className='mt-3 mr-3'>
+                                <p className='text-green-600 font-bold relative'>{user.displayName}</p>
+                            </div>
+                            <div className='mt-3'>
+                                <img className='md:w-[5vw] md:h-[8vh] rounded-full relative' src={user.photoURL} alt="" />
+                            </div>
+                        </div> : ""
+                }
+                {
+                    user && user.email ? (<Link to="/login" onClick={signoutUser} className='btn btn-primary relative'>Logout</Link>) : (<Link to="/login" className='btn btn-primary relative'>Login</Link>)
+                }
             </div>
         </div>
     );

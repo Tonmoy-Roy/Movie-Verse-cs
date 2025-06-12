@@ -1,5 +1,5 @@
 
-const DetailsMovie = ({movie={}}) => {
+const DetailsMovie = ({ movie = {} }) => {
     return (
         <div className="card bg-base-100 shadow-sm">
             <figure>

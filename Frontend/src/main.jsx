@@ -13,6 +13,9 @@ import Movies from './Components/Movies/Movies.jsx';
 import { HelmetProvider } from 'react-helmet-async';
 import AllMovies from './Components/Movies/AllMovies.jsx';
 import CategoryMovies from './Components/Movies/CategoryMovies.jsx';
+import Register from './Components/Login/Register.jsx';
+import AuthProvider from './Components/Provider/AuthProvider.jsx';
+import Login from './Components/Login/Login.jsx';
 
 const router = createBrowserRouter([
   {
@@ -36,6 +39,14 @@ const router = createBrowserRouter([
         path: "/categorymovies",
         element: <CategoryMovies></CategoryMovies>,
       },
+      {
+        path: "/register",
+        element: <Register></Register>,
+      },
+      {
+        path: "/login",
+        element: <Login></Login>,
+      },
     ]
   },
 ]);
@@ -43,7 +54,9 @@ const router = createBrowserRouter([
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <HelmetProvider>
-      <RouterProvider router={router} />
+      <AuthProvider>
+        <RouterProvider router={router} />
+      </AuthProvider>
     </HelmetProvider>
   </StrictMode>,
 )
