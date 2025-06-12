@@ -16,6 +16,7 @@ import CategoryMovies from './Components/Movies/CategoryMovies.jsx';
 import Register from './Components/Login/Register.jsx';
 import AuthProvider from './Components/Provider/AuthProvider.jsx';
 import Login from './Components/Login/Login.jsx';
+import { Toaster } from 'react-hot-toast';
 
 const router = createBrowserRouter([
   {
@@ -56,6 +57,7 @@ createRoot(document.getElementById('root')).render(
     <HelmetProvider>
       <AuthProvider>
         <RouterProvider router={router} />
+        <Toaster position="top-right" />
       </AuthProvider>
     </HelmetProvider>
   </StrictMode>,

@@ -38,8 +38,8 @@ const Navbar = () => {
             <div className="navbar-end">
                 {
                     user && user.email ?
-                        <div className='md:flex mr-[8vw] md:w-[15vw]'>
-                            <div className='mt-3 mr-3'>
+                        <div className='md:flex mr-[5vw]'>
+                            <div className='mt-5 mr-3'>
                                 <p className='text-green-600 font-bold relative'>{user.displayName}</p>
                             </div>
                             <div className='mt-3'>
@@ -48,7 +48,7 @@ const Navbar = () => {
                         </div> : ""
                 }
                 {
-                    user && user.email ? (<Link to="/login" onClick={signoutUser} className='btn btn-primary relative'>Logout</Link>) : (<Link to="/login" className='btn btn-primary relative'>Login</Link>)
+                    user && user.email ? (<Link to="/login" onClick={signoutUser} className='btn btn-primary relative'>Logout</Link>) : (<Link to="/login" className='btn btn-primary'>Login</Link>)
                 }
             </div>
         </div>

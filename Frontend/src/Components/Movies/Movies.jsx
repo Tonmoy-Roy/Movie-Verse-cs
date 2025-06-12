@@ -12,10 +12,14 @@ import fantasy from "../../assets/Home/fantasy.jpg"
 import Movie from './Movie';
 import UseMovies from '../Hooks/UseMovies';
 import { Link } from 'react-router-dom';
+import { useContext } from 'react';
+import { AuthContext } from '../Provider/AuthProvider';
+import toast from 'react-hot-toast';
 
 
 const Movies = () => {
     const [movies] = UseMovies();
+    const { user } = useContext(AuthContext);
     const actions = movies.filter(items => items.category === 'Action')
     const dramas = movies.filter(items => items.category === 'Drama')
     const crimes = movies.filter(items => items.category === 'Crime')
@@ -24,12 +28,18 @@ const Movies = () => {
     const animations = movies.filter(items => items.category === 'Animation')
     const fictions = movies.filter(items => items.category === 'Sci-Fi')
     const fanatasy = movies.filter(items => items.category === 'Fantasy')
+
     return (
         <div>
             <Helmet><title>Movies</title></Helmet>
             <Cover image={banner} title={"ALL MOVIES"}></Cover>
             <div className="text-right">
-                <Link to="/allmovies" className="text-red-700 underline">See All</Link>
+                <Link to="/allmovies" onClick={(e) => { //alada function execute krte krte link e dhuke jacche.
+                    if (!user || !user.email) {
+                        toast.error('Please login first !');
+                        e.preventDefault();
+                    }
+                }} className="text-red-700 underline">See All</Link>
             </div>
             <div className='md:grid grid-cols-3'>
                 {
@@ -40,7 +50,12 @@ const Movies = () => {
 
             <Cover image={action} title={"Action"}></Cover>
             <div className="text-right">
-                <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                <Link to="/categorymovies" onClick={(e) => { //alada function execute krte krte link e dhuke jacche.
+                    if (!user || !user.email) {
+                        toast.error('Please login first !');
+                        e.preventDefault();
+                    }
+                }} className="text-red-700 underline">See All</Link>
             </div>
             <div className='md:grid grid-cols-3'>
                 {
@@ -51,7 +66,12 @@ const Movies = () => {
 
             <Cover image={drama} title={"dramas"}></Cover>
             <div className="text-right">
-                <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                <Link to="/categorymovies" onClick={(e) => { //alada function execute krte krte link e dhuke jacche.
+                    if (!user || !user.email) {
+                        toast.error('Please login first !');
+                        e.preventDefault();
+                    }
+                }} className="text-red-700 underline">See All</Link>
             </div>
             <div className='md:grid grid-cols-3'>
                 {
@@ -62,7 +82,12 @@ const Movies = () => {
 
             <Cover image={crime} title={"Crimes"}></Cover>
             <div className="text-right">
-                <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                <Link to="/categorymovies" onClick={(e) => { //alada function execute krte krte link e dhuke jacche.
+                    if (!user || !user.email) {
+                        toast.error('Please login first !');
+                        e.preventDefault();
+                    }
+                }} className="text-red-700 underline">See All</Link>
             </div>
             <div className='md:grid grid-cols-3'>
                 {
@@ -73,7 +98,12 @@ const Movies = () => {
 
             <Cover image={thriller} title={"thriller"}></Cover>
             <div className="text-right">
-                <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                <Link to="/categorymovies" onClick={(e) => { //alada function execute krte krte link e dhuke jacche.
+                    if (!user || !user.email) {
+                        toast.error('Please login first !');
+                        e.preventDefault();
+                    }
+                }} className="text-red-700 underline">See All</Link>
             </div>
             <div className='md:grid grid-cols-3'>
                 {
@@ -84,7 +114,12 @@ const Movies = () => {
 
             <Cover image={romance} title={"romance"}></Cover>
             <div className="text-right">
-                <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                <Link to="/categorymovies" onClick={(e) => { //alada function execute krte krte link e dhuke jacche.
+                    if (!user || !user.email) {
+                        toast.error('Please login first !');
+                        e.preventDefault();
+                    }
+                }} className="text-red-700 underline">See All</Link>
             </div>
             <div className='md:grid grid-cols-3'>
                 {
@@ -95,7 +130,12 @@ const Movies = () => {
 
             <Cover image={animation} title={"animation"}></Cover>
             <div className="text-right">
-                <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                <Link to="/categorymovies" onClick={(e) => { //alada function execute krte krte link e dhuke jacche.
+                    if (!user || !user.email) {
+                        toast.error('Please login first !');
+                        e.preventDefault();
+                    }
+                }} className="text-red-700 underline">See All</Link>
             </div>
             <div className='md:grid grid-cols-3'>
                 {
@@ -106,7 +146,12 @@ const Movies = () => {
 
             <Cover image={fiction} title={"fiction"}></Cover>
             <div className="text-right">
-                <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                <Link to="/categorymovies" onClick={(e) => { //alada function execute krte krte link e dhuke jacche.
+                    if (!user || !user.email) {
+                        toast.error('Please login first !');
+                        e.preventDefault();
+                    }
+                }} className="text-red-700 underline">See All</Link>
             </div>
             <div className='md:grid grid-cols-3'>
                 {
@@ -117,7 +162,12 @@ const Movies = () => {
 
             <Cover image={fantasy} title={"fanatasy"}></Cover>
             <div className="text-right">
-                <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                <Link to="/categorymovies" onClick={(e) => { //alada function execute krte krte link e dhuke jacche.
+                    if (!user || !user.email) {
+                        toast.error('Please login first !');
+                        e.preventDefault();
+                    }
+                }} className="text-red-700 underline">See All</Link>
             </div>
             <div className='md:grid grid-cols-3'>
                 {
