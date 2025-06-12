@@ -18,6 +18,7 @@ import toast from 'react-hot-toast';
 
 
 const Movies = () => {
+    
     const [movies] = UseMovies();
     const { user } = useContext(AuthContext);
     const actions = movies.filter(items => items.category === 'Action')
@@ -175,8 +176,6 @@ const Movies = () => {
                 }
             </div>
             <p className='divider'></p>
-
-            <p className='min-h-screen'></p>
         </div>
     );
 };

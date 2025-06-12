@@ -17,6 +17,7 @@ import Register from './Components/Login/Register.jsx';
 import AuthProvider from './Components/Provider/AuthProvider.jsx';
 import Login from './Components/Login/Login.jsx';
 import { Toaster } from 'react-hot-toast';
+import MovieDetails from './Components/Movies/MovieDetails.jsx';
 
 const router = createBrowserRouter([
   {
@@ -48,8 +49,13 @@ const router = createBrowserRouter([
         path: "/login",
         element: <Login></Login>,
       },
+      {
+        path: "/moviedetails/:id",
+        element: <MovieDetails></MovieDetails>,
+        loader: ({ params }) => fetch(`http://localhost:5000/movielist/${params.id}`)
+      },
     ]
-  },
+  }
 ]);
 
 createRoot(document.getElementById('root')).render(

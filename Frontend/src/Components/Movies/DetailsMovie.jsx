@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 const DetailsMovie = ({ movie = {} }) => {
     return (
@@ -12,9 +13,19 @@ const DetailsMovie = ({ movie = {} }) => {
                     {movie.name}
                 </h2>
                 <p className='text-left'>Category : {movie.category}</p>
-                <p className='text-left'>Ratings : {movie.ratings}</p>
-                <p className='text-left'>{movie.details}</p>
-                <p className='text-left'>Released : {movie.published_date}</p>
+                <div className="flex justify-between">
+                    <div>
+                        <p className='text-left'>Ratings : {movie.ratings}</p>
+                    </div>
+                    <div className="rating">
+                        <input type="radio" className="mask mask-star-2 bg-orange-400" aria-label="1 star" />
+                        <input type="radio" className="mask mask-star-2 bg-orange-400" aria-label="2 star" />
+                        <input type="radio" className="mask mask-star-2 bg-orange-400" aria-label="3 star" defaultChecked />
+                        <input type="radio" className="mask mask-star-2 bg-orange-400" aria-label="4 star" />
+                        <input type="radio" className="mask mask-star-2 bg-orange-400" aria-label="5 star" />
+                    </div>
+                </div>
+                <Link to={`/moviedetails/${movie._id}`}><button className="btn btn-neutral">View Details</button></Link>
             </div>
         </div>
     );
