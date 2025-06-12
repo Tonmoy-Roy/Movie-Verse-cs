@@ -2,6 +2,8 @@ import React, { useContext } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import moment from 'moment';
 import { AuthContext } from '../Provider/AuthProvider';
+import { BsBookmarkPlus } from "react-icons/bs";
+
 
 
 moment().format();
@@ -11,7 +13,14 @@ const Navbar = () => {
     const links = <>
         <li><NavLink><p>Home</p></NavLink></li>
         <li><NavLink to="/movies"><p>Movies</p></NavLink></li>
-        <li><NavLink to="/register"><p>Register</p></NavLink></li>
+        {
+            user && user.email ? "" : (<li><NavLink to="/register"><p>Register</p></NavLink></li>)
+        }
+
+        {
+            user && user.email ? (<li><NavLink to="/register"><p>Watch-List</p>
+                <div className="badge badge-secondary">+0</div></NavLink></li>) : ""
+        }
     </>
     return (
         <div className="navbar bg-base-100 shadow-sm bg-black text-white rounded">
