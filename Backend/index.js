@@ -48,20 +48,20 @@ async function run() {
             res.send(result);
         })
 
-        app.post('/bookmark', async (req, res) => {
+        app.post('/bookmarklist', async (req, res) => {
             const watchlist = req.body;
             const result = await bookmarkCollection.insertOne(watchlist);
             res.send(result);
         })
 
-        app.get('/bookmark', async (req, res) => {
+        app.get('/bookmarklist', async (req, res) => {
             const email = req.query.email;
             const query = { email: email };
             const result = await bookmarkCollection.find(query).toArray();
             res.send(result);
         })
 
-        app.delete('/bookmark/:id', async (req, res) => {
+        app.delete('/bookmarklist/:id', async (req, res) => {
             const id = req.params.id;
             const query = { _id: new ObjectId(id) }; // ✅ FIXED
             const result = await bookmarkCollection.deleteOne(query);
@@ -70,8 +70,8 @@ async function run() {
 
 
         // Send a ping to confirm a successful connection
-        await client.db("admin").command({ ping: 1 });
-        console.log("Pinged your deployment. You successfully connected to MongoDB!");
+        //await client.db("admin").command({ ping: 1 });
+        //console.log("Pinged your deployment. You successfully connected to MongoDB!");
     } finally {
         // Ensures that the client will close when you finish/error
         // await client.close();
