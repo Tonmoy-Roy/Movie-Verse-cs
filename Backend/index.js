@@ -23,6 +23,7 @@ async function run() {
         await client.connect();
         const moviesCollection = client.db('Movie-Verse').collection('movielist');
         const usersCollection = client.db('Movie-Verse').collection('userslist');
+        const bookmarkCollection = client.db('Movie-Verse').collection('bookmarklist');
 
         app.get('/movielist', async (req, res) => {
             const result = await moviesCollection.find().toArray();
@@ -41,8 +42,22 @@ async function run() {
             const result = await usersCollection.insertOne(users);
             res.send(result);
         })
+
         app.get('/userslist', async (req, res) => {
             const result = await usersCollection.find().toArray();
+            res.send(result);
+        })
+
+        app.post('/bookmark', async (req, res) => {
+            const watchlist = req.body;
+            const result = await bookmarkCollection.insertOne(watchlist);
+            res.send(result);
+        })
+
+        app.get('/bookmark', async (req, res) => {
+            const email = req.query.email;
+            const query= {email : email};
+            const result = await bookmarkCollection.find(query).toArray();
             res.send(result);
         })
 
