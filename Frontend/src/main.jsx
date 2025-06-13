@@ -11,7 +11,6 @@ import {
 import {
   QueryClient,
   QueryClientProvider,
-  useQuery,
 } from '@tanstack/react-query'
 
 const queryClient = new QueryClient()
@@ -28,6 +27,8 @@ import AuthProvider from './Components/Provider/AuthProvider.jsx';
 import Login from './Components/Login/Login.jsx';
 import { Toaster } from 'react-hot-toast';
 import MovieDetails from './Components/Movies/MovieDetails.jsx';
+import Dashboard from './Components/Dashboard/Dashboard.jsx';
+import Watchlist from './Components/Dashboard/Watchlist.jsx';
 
 const router = createBrowserRouter([
   {
@@ -63,6 +64,16 @@ const router = createBrowserRouter([
         path: "/moviedetails/:id",
         element: <MovieDetails></MovieDetails>,
         loader: ({ params }) => fetch(`http://localhost:5000/movielist/${params.id}`)
+      },
+      {
+        path: "/dashboard",
+        element: <Dashboard></Dashboard>,
+        children: [
+          {
+            path: "bookmark",
+            element: <Watchlist></Watchlist>
+          },
+        ]
       },
     ]
   }

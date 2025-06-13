@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import { useContext } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import moment from 'moment';
 import { AuthContext } from '../Provider/AuthProvider';
@@ -11,7 +11,7 @@ moment().format();
 const Navbar = () => {
     const { user, signoutUser } = useContext(AuthContext);
     const [bookmark] = UseBookmark();
-    const currentDateTime = moment().format('MMMM Do YYYY, h:mm');
+    // const currentDateTime = moment().format('MMMM Do YYYY, h:mm');
 
     const links = <>
         <li><NavLink><p>Home</p></NavLink></li>
@@ -21,7 +21,7 @@ const Navbar = () => {
         }
 
         {
-            user && user.email ? (<li><NavLink to=""><BsBookmarkPlus className='text-2xl'/>
+            user && user.email ? (<li><NavLink to="/dashboard/bookmark"><BsBookmarkPlus className='text-2xl'/>
                 <div className="badge badge-secondary">+{bookmark.length}</div></NavLink></li>) : ""
         }
     </>
