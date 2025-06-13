@@ -5,6 +5,7 @@ import { useNavigate } from 'react-router-dom';
 import { FaFacebook } from "react-icons/fa";
 import { FcGoogle } from "react-icons/fc";
 import { AiFillGithub } from "react-icons/ai";
+import { Helmet } from 'react-helmet-async';
 
 
 
@@ -52,6 +53,7 @@ const Register = () => {
 
     return (
         <div>
+            <Helmet><title>Registration</title></Helmet>
             <p className='font-bold text-3xl text-center mb-5'>Register Your Account</p>
             <form onSubmit={signUp}>
                 <div className="hero bg-base-200">

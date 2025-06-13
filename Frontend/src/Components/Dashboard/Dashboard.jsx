@@ -7,12 +7,14 @@ import UseBookmark from '../Hooks/UseBookmark';
 import { BsBookmarkPlus } from "react-icons/bs";
 
 import { useState } from 'react';
+import { Helmet } from 'react-helmet-async';
 
 const Dashboard = () => {
     const [bookmark] = UseBookmark();
     const [isOpen, setIsOpen] = useState(false);
     return (
         <div className="flex">
+            <Helmet><title>Dashboard</title></Helmet>
             {/* Toggle Button for Mobile */}
             <button
                 className="md:hidden p-3 fixed top-4 left-4 z-30 bg-yellow-600 rounded"

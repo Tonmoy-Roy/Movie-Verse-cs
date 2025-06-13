@@ -1,6 +1,7 @@
 import { useContext, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../Provider/AuthProvider';
+import { Helmet } from 'react-helmet-async';
 
 const Login = () => {
     const { signinUser } = useContext(AuthContext);
@@ -24,6 +25,7 @@ const Login = () => {
     }
     return (
         <div>
+            <Helmet><title>Login</title></Helmet>
             <p className='font-bold text-3xl text-center mb-5'>Login Now</p>
             <form onSubmit={login}>
                 <div className="hero bg-base-200">
