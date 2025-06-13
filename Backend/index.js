@@ -56,10 +56,17 @@ async function run() {
 
         app.get('/bookmark', async (req, res) => {
             const email = req.query.email;
-            const query= {email : email};
+            const query = { email: email };
             const result = await bookmarkCollection.find(query).toArray();
             res.send(result);
         })
+
+        app.delete('/bookmark/:id', async (req, res) => {
+            const id = req.params.id;
+            const query = { _id: new ObjectId(id) }; // ✅ FIXED
+            const result = await bookmarkCollection.deleteOne(query);
+            res.send(result);
+        });
 
 
         // Send a ping to confirm a successful connection
