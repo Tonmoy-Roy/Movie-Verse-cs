@@ -35,12 +35,7 @@ const Movies = () => {
             <Helmet><title>Movies</title></Helmet>
             <Cover image={banner} title={"ALL MOVIES"}></Cover>
             <div className="text-right">
-                <Link to="/allmovies" onClick={(e) => { //alada function execute krte krte link e dhuke jacche.
-                    if (!user || !user.email) {
-                        toast.error('Please login first !');
-                        e.preventDefault();
-                    }
-                }} className="text-red-700 underline">See All</Link>
+                <Link to="/allmovies" className="text-red-700 underline">See All</Link>
             </div>
             <div className='md:grid grid-cols-3'>
                 {

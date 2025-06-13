@@ -3,13 +3,16 @@ import { Link, NavLink } from 'react-router-dom';
 import moment from 'moment';
 import { AuthContext } from '../Provider/AuthProvider';
 import { BsBookmarkPlus } from "react-icons/bs";
+import UseBookmark from '../Hooks/UseBookmark';
 
 
 
 moment().format();
 const Navbar = () => {
     const { user, signoutUser } = useContext(AuthContext);
+    const [bookmark] = UseBookmark();
     const currentDateTime = moment().format('MMMM Do YYYY, h:mm');
+
     const links = <>
         <li><NavLink><p>Home</p></NavLink></li>
         <li><NavLink to="/movies"><p>Movies</p></NavLink></li>
@@ -18,8 +21,8 @@ const Navbar = () => {
         }
 
         {
-            user && user.email ? (<li><NavLink to="/register"><p>Watch-List</p>
-                <div className="badge badge-secondary">+0</div></NavLink></li>) : ""
+            user && user.email ? (<li><NavLink to=""><BsBookmarkPlus className='text-2xl'/>
+                <div className="badge badge-secondary">+{bookmark.length}</div></NavLink></li>) : ""
         }
     </>
     return (

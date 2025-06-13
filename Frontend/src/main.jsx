@@ -7,6 +7,16 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+
+import {
+  QueryClient,
+  QueryClientProvider,
+  useQuery,
+} from '@tanstack/react-query'
+
+const queryClient = new QueryClient()
+
+
 import Root from './Components/Root/Root.jsx';
 import Home from './Components/Home/Home.jsx';
 import Movies from './Components/Movies/Movies.jsx';
@@ -61,10 +71,12 @@ const router = createBrowserRouter([
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <HelmetProvider>
-      <AuthProvider>
-        <RouterProvider router={router} />
-        <Toaster position="top-right" />
-      </AuthProvider>
+      <QueryClientProvider client={queryClient}>
+        <AuthProvider>
+          <RouterProvider router={router} />
+          <Toaster position="top-right" />
+        </AuthProvider>
+      </QueryClientProvider>
     </HelmetProvider>
   </StrictMode>,
 )
