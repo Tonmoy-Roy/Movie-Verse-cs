@@ -24,7 +24,7 @@ const MovieDetails = () => {
             published_date: moviedata.published_date,
             ratings: moviedata.ratings,
         }
-        axiosInstance.post('/bookmark', bookmarkItem)
+        axiosInstance.post('/bookmarklist', bookmarkItem)
             .then(res => {
                 console.log(res.data);
                 toast.success(`${moviedata.name} Added to watchlist.`);

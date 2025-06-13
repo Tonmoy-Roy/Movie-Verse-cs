@@ -19,7 +19,7 @@ const Watchlist = () => {
             confirmButtonText: "Yes, delete it!"
         }).then((result) => {
             if (result.isConfirmed) {
-                axiosInstance.delete(`/bookmark/${id}`)
+                axiosInstance.delete(`/bookmarklist/${id}`)
                     .then(res => {
                         if (res.data.deletedCount > 0) {
                             refetch();

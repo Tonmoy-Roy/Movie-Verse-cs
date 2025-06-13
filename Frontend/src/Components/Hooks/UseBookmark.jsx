@@ -7,9 +7,9 @@ const UseBookmark = () => {
     const { user } = useContext(AuthContext);
 
     const { refetch, data: bookmark = [] } = useQuery({
-        queryKey: ['bookmark', user?.email],
+        queryKey: ['bookmarklist', user?.email],
         queryFn: async () => {
-            const res = await axiosInstance.get(`/bookmark?email=${user.email}`); 
+            const res = await axiosInstance.get(`/bookmarklist?email=${user.email}`); 
             return res.data; // specific email jacche se hisebe bookmark items dekhacche.
         }
     });
