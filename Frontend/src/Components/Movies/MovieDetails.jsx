@@ -7,6 +7,7 @@ import UseBookmark from "../Hooks/UseBookmark";
 
 const MovieDetails = () => {
     const moviedata = useLoaderData();
+    console.log(moviedata);
     const { user } = useContext(AuthContext);
     const axiosInstance = UseAxios();
     const [, refetch] = UseBookmark();

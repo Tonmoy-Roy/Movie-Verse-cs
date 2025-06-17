@@ -62,7 +62,7 @@ const router = createBrowserRouter([
       {
         path: "/moviedetails/:id",
         element: <MovieDetails></MovieDetails>,
-        loader: ({ params }) => fetch(`https://movieverse-tan.vercel.app//movielist/${params.id}`)
+        loader: ({ params }) => fetch(`https://movieverse-tan.vercel.app/movielist/${params.id}`)
       },
       {
         path: "/dashboard",

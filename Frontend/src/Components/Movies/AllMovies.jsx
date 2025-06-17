@@ -5,13 +5,17 @@ import DetailsMovie from './DetailsMovie';
 import { IoIosSearch } from "react-icons/io";
 
 const AllMovies = () => {
-    const [movies] = UseMovies();
+    const [movies, loadingMovies] = UseMovies();
     const [searchTerm, setSearchTerm] = useState('');
     const [filteredMovies, setFilteredMovies] = useState([]);
 
+
     useEffect(() => {
-        setFilteredMovies(movies);
-    }, [movies]);
+        if (!loadingMovies) {
+            setFilteredMovies(movies);
+        }
+    }, [movies, loadingMovies]);
+
 
     const handleSearch = (e) => {
         if (e.key === 'Enter') {
@@ -53,7 +57,11 @@ const AllMovies = () => {
 
 
             <div className='md:grid grid-cols-3 mt-4 gap-4'>
-                {filteredMovies.length > 0 ? (
+                {loadingMovies ? (
+                    <div className="col-span-3 text-center mt-10">
+                        <span className="loading loading-spinner loading-lg text-red-500"></span>
+                    </div>
+                ) : filteredMovies.length > 0 ? (
                     filteredMovies.map(movie => (
                         <DetailsMovie key={movie._id} movie={movie} />
                     ))
@@ -61,6 +69,8 @@ const AllMovies = () => {
                     <p className="col-span-3 text-center mt-10 text-red-600">No movies found.</p>
                 )}
             </div>
+
+
         </div>
     );
 };
