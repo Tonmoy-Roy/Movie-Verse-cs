@@ -5,11 +5,11 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import { Pagination } from 'swiper/modules';
 
-import banner1 from "../../../src/assets/Home/benjamin-davies-mqN-EV9rNlY-unsplash.jpg"
-import banner2 from "../../../src/assets/Home/pietro-mattia-zXqizKxnbBU-unsplash.jpg"
-import banner3 from "../../../src/assets/Home/jakob-owens-CiUR8zISX60-unsplash.jpg"
-import banner4 from "../../../src/assets/Home/wojciech-then-DijA5f0voGQ-unsplash.jpg"
-import banner5 from "../../../src/assets/Home/varun-yadav-QhYTCG3CTeI-unsplash.jpg"
+import banner1 from "../../../src/assets/Home/banner1.png"
+import banner2 from "../../../src/assets/Home/banner2.png"
+import banner3 from "../../../src/assets/Home/banner3.png"
+import banner4 from "../../../src/assets/Home/banner4.png"
+import banner5 from "../../../src/assets/Home/banner5.png"
 import banner6 from "../../../src/assets/Home/venti-views-GGwBS_kuKB0-unsplash.jpg"
 import swip1 from "../../../src/assets/Home/captain.jpeg"
 import swip2 from "../../../src/assets/Home/Joker.jpeg"
