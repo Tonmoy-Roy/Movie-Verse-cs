@@ -32,7 +32,7 @@ async function run() {
 
         app.get('/movielist/:id', async (req, res) => {
             const id = req.params.id;
-            const query = { _id: id }; // no ObjectId()
+            const query = { _id: id }; // Convert id to ObjectId
             const result = await moviesCollection.findOne(query);
             res.send(result);
         });
@@ -79,7 +79,6 @@ async function run() {
 }
 run().catch(console.dir);
 
-
 app.use(cors())
 app.use(express.json());
 
@@ -90,3 +89,7 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
+
+app.use(cors({
+    origin: ['http://localhost:5000', 'https://movieverse-tan.vercel.app/']
+}));
