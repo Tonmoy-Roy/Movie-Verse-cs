@@ -1,6 +1,6 @@
 import axios from 'axios';
 export const axiosInstance = axios.create({
-    baseURL: 'http://localhost:5000/',
+    baseURL: 'https://movieverse-tan.vercel.app/',
 })
 const UseAxios = () => {
     return axiosInstance;

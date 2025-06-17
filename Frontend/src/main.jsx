@@ -15,7 +15,6 @@ import {
 
 const queryClient = new QueryClient()
 
-
 import Root from './Components/Root/Root.jsx';
 import Home from './Components/Home/Home.jsx';
 import Movies from './Components/Movies/Movies.jsx';
@@ -63,7 +62,7 @@ const router = createBrowserRouter([
       {
         path: "/moviedetails/:id",
         element: <MovieDetails></MovieDetails>,
-        loader: ({ params }) => fetch(`http://localhost:5000/movielist/${params.id}`)
+        loader: ({ params }) => fetch(`https://movieverse-tan.vercel.app//movielist/${params.id}`)
       },
       {
         path: "/dashboard",

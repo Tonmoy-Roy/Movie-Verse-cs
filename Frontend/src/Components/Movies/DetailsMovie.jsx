@@ -17,7 +17,7 @@ const DetailsMovie = ({ movie = {} }) => {
                     <div>
                         <p className='text-left'>Ratings : {movie.ratings}</p>
                     </div>
-                    <div className="rating">
+                    <div className="rating mb-5">
                         <input type="radio" className="mask mask-star-2 bg-orange-400" aria-label="1 star" />
                         <input type="radio" className="mask mask-star-2 bg-orange-400" aria-label="2 star" />
                         <input type="radio" className="mask mask-star-2 bg-orange-400" aria-label="3 star" defaultChecked />

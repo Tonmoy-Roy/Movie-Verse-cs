@@ -35,6 +35,21 @@ const MovieDetails = () => {
             })
     }
 
+    function handleTrailer() {
+        if (!user || !user.email) {
+            toast.error('Please login first !');
+            return;
+        }
+
+    }
+
+    function handleDownload() {
+        if (!user || !user.email) {
+            toast.error('Please login first !');
+            return;
+        }
+    }
+
     return (
         <div>
             <div className="hero bg-base-200 mb-24">
@@ -62,8 +77,9 @@ const MovieDetails = () => {
                             </div>
                         </div>
                         <p className="mb-5 text-left">{moviedata.details}</p>
+                        <button className="btn btn-error" onClick={() => handleTrailer()}>Trailer</button>
                         <button className="btn btn-neutral" onClick={() => handleCart(moviedata)}>Add to Watchlist</button>
-                        <button className="btn btn-success mb-24">Download</button>
+                        <button className="btn btn-success mb-24" onClick={() => handleDownload()}>Download</button>
                     </div>
                 </div>
             </div>

@@ -71,7 +71,7 @@ const Register = () => {
                                     </div>
                                     <p className='font-bold'>OR</p>
                                     <label className="label text-black">Name</label>
-                                    <input name="name" type="text" className="input" placeholder="Email" required />
+                                    <input name="name" type="text" className="input" placeholder="Name" required />
                                     <label className="label text-black">Photo URL</label>
                                     <input name="photo" type="text" className="input" placeholder="Photo URL" required />
                                     <label className="label text-black">Email</label>

@@ -78,8 +78,7 @@ const Home = () => {
                                 {/* if there is a button in form, it will close the modal */}
                                 <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
                             </form>
-                            <img src={swip6} alt="" className="md:h-[60vh] mb-3" />
-                            <button className="btn btn-neutral text-left">Get Started</button>
+                            <img src={swip6} alt="" className="mb-3" />
                         </div>
                     </dialog>
                 </div>
@@ -92,8 +91,7 @@ const Home = () => {
                                 {/* if there is a button in form, it will close the modal */}
                                 <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
                             </form>
-                            <img src={swip2} alt="" className="md:h-[60vh] mb-3" />
-                            <button className="btn btn-neutral text-left">Get Started</button>
+                            <img src={swip2} alt="" className="mb-3" />
                         </div>
                     </dialog>
                 </div>
@@ -105,8 +103,7 @@ const Home = () => {
                             {/* if there is a button in form, it will close the modal */}
                             <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
                         </form>
-                        <img src={swip5} alt="" className="md:h-[60vh] mb-3" />
-                        <button className="btn btn-neutral text-left">Get Started</button>
+                        <img src={swip5} alt="" className="mb-3" />
                     </div>
                 </dialog>
             </div>
