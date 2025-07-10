@@ -21,12 +21,12 @@ const Navbar = () => {
         }
 
         {
-            user && user.email ? (<li><NavLink to="/dashboard/bookmark"><BsBookmarkPlus className='text-2xl'/>
+            user && user.email ? (<li><NavLink to="/dashboard/bookmark"><BsBookmarkPlus className='text-2xl' />
                 <div className="badge badge-secondary">+{bookmark.length}</div></NavLink></li>) : ""
         }
     </>
     return (
-        <div className="navbar bg-base-100 shadow-sm bg-black text-white rounded">
+        <div className="navbar shadow-sm bg-black rounded text-white fixed top-0 z-50 mt-0 w-[80%]">
             <p className="font-bold">Movie Verse</p>
             <div className="navbar-start">
                 <div className="dropdown">

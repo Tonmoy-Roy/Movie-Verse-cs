@@ -5,24 +5,24 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import { Pagination } from 'swiper/modules';
 
-import banner1 from "../../../src/assets/Home/banner1.png"
-import banner2 from "../../../src/assets/Home/banner2.png"
-import banner3 from "../../../src/assets/Home/banner3.png"
-import banner4 from "../../../src/assets/Home/banner4.png"
-import banner5 from "../../../src/assets/Home/banner5.png"
-import banner6 from "../../../src/assets/Home/venti-views-GGwBS_kuKB0-unsplash.jpg"
+import banner4 from "../../../src/assets/Home/Were-the-Millers.jpg.jpeg"
+import banner5 from "../../../src/assets/Home/banner2.png"
+import banner6 from "../../../src/assets/Home/moviebannermaster-jumanjinextlvl.png"
+import banner1 from "../../../src/assets/Home/share.png"
+import banner2 from "../../../src/assets/Home/maxresdefault.jpg"
+import banner3 from "../../../src/assets/Home/hq720.jpg"
 import swip1 from "../../../src/assets/Home/captain.jpeg"
-import swip2 from "../../../src/assets/Home/Joker.jpeg"
+import swip2 from "../../../src/assets/Home/0b34ce2145b475247577a5d438a199b0.jpg"
 import swip3 from "../../../src/assets/Home/mission.jpeg"
 import swip4 from "../../../src/assets/Home/Superman _ Legacy (7_11_25).jpeg"
 import swip5 from "../../../src/assets/Home/unicorn.jpeg"
-import swip6 from "../../../src/assets/Home/Superman.jpeg"
+import swip6 from "../../../src/assets/Home/cac76151db313b83ec79e33f8906fa35.jpg"
 
 import Questions from "./Questions";
 import { Helmet } from "react-helmet-async";
 const Home = () => {
     return (
-        <div>
+        <div className="mt-8">
             <Helmet><title>Home</title></Helmet>
             <Carousel>
                 <div>
