@@ -35,7 +35,7 @@ const AllMovies = () => {
             <div className="flex items-center justify-between flex-wrap">
                 {/* Centered Title */}
                 <div className="w-full md:w-auto text-center flex-1">
-                    <p className="font-bold text-3xl uppercase mt-8">All Movies</p>
+                    <p className="font-bold text-3xl uppercase mt-10">All Movies</p>
                 </div>
 
                 {/* Search Input aligned right */}

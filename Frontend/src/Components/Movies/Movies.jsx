@@ -36,9 +36,11 @@ const Movies = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
             >
-                <Cover image={banner} title={"ALL MOVIES"} />
-                <div className="text-right">
-                    <Link to="/allmovies" className="text-red-700 underline">See All</Link>
+                <div className="text-right mt-10">
+                    <Link to="/allmovies" className=" btn btn-error text-white">See All</Link>
+                </div>
+                <div className="mt-8">
+                    <Cover image={banner} title={"ALL MOVIES"} />
                 </div>
                 <div className='md:grid grid-cols-3 gap-4'>
                     {
@@ -65,10 +67,10 @@ const Movies = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
             >
-                <Cover image={action} title={"Action"}></Cover>
                 <div className="text-right">
-                    <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                    <Link to="/categorymovies" className="btn btn-error text-white mb-3">See All</Link>
                 </div>
+                <Cover image={action} title={"Action"}></Cover>
                 <div className='md:grid grid-cols-3'>
                     {
                         actions.slice(0, 6).map(movie => (<motion.div
@@ -93,10 +95,10 @@ const Movies = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
             >
-                <Cover image={drama} title={"dramas"}></Cover>
                 <div className="text-right">
-                    <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                    <Link to="/categorymovies" className="btn btn-error text-white mb-3">See All</Link>
                 </div>
+                <Cover image={drama} title={"dramas"}></Cover>
                 <div className='md:grid grid-cols-3'>
                     {
                         dramas.slice(0, 6).map(movie => (<motion.div
@@ -121,10 +123,10 @@ const Movies = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
             >
-                <Cover image={crime} title={"Crimes"}></Cover>
                 <div className="text-right">
-                    <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                    <Link to="/categorymovies" className="btn btn-error text-white mb-3">See All</Link>
                 </div>
+                <Cover image={crime} title={"Crimes"}></Cover>
                 <div className='md:grid grid-cols-3'>
                     {
                         crimes.slice(0, 6).map(movie => (<motion.div
@@ -149,10 +151,10 @@ const Movies = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
             >
-                <Cover image={thriller} title={"thriller"}></Cover>
                 <div className="text-right">
-                    <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                    <Link to="/categorymovies" className="btn btn-error text-white mb-3">See All</Link>
                 </div>
+                <Cover image={thriller} title={"thriller"}></Cover>
                 <div className='md:grid grid-cols-3'>
                     {
                         thrillers.slice(0, 6).map(movie => (<motion.div
@@ -177,10 +179,10 @@ const Movies = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
             >
-                <Cover image={romance} title={"romance"}></Cover>
                 <div className="text-right">
-                    <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                    <Link to="/categorymovies" className="btn btn-error text-white mb-3">See All</Link>
                 </div>
+                <Cover image={romance} title={"romance"}></Cover>
                 <div className='md:grid grid-cols-3'>
                     {
                         romances.slice(0, 6).map(movie => (<motion.div
@@ -205,10 +207,10 @@ const Movies = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
             >
-                <Cover image={animation} title={"animation"}></Cover>
                 <div className="text-right">
-                    <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                    <Link to="/categorymovies" className="btn btn-error text-white mb-3">See All</Link>
                 </div>
+                <Cover image={animation} title={"animation"}></Cover>
                 <div className='md:grid grid-cols-3'>
                     {
                         animations.slice(0, 6).map(movie => (<motion.div
@@ -233,10 +235,10 @@ const Movies = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
             >
-                <Cover image={fiction} title={"fiction"}></Cover>
                 <div className="text-right">
-                    <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                    <Link to="/categorymovies" className="btn btn-error text-white mb-3">See All</Link>
                 </div>
+                <Cover image={fiction} title={"fiction"}></Cover>
                 <div className='md:grid grid-cols-3'>
                     {
                         fictions.slice(0, 6).map(movie => (<motion.div
@@ -261,10 +263,10 @@ const Movies = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
             >
-                <Cover image={fantasy} title={"fanatasy"}></Cover>
                 <div className="text-right">
-                    <Link to="/categorymovies" className="text-red-700 underline">See All</Link>
+                    <Link to="/categorymovies" className="btn btn-error text-white mb-3">See All</Link>
                 </div>
+                <Cover image={fantasy} title={"fanatasy"}></Cover>
                 <div className='md:grid grid-cols-3'>
                     {
                         fanatasy.slice(0, 6).map(movie => (<motion.div

@@ -54,7 +54,7 @@ const Register = () => {
     return (
         <div>
             <Helmet><title>Registration</title></Helmet>
-            <p className='font-bold text-3xl text-center mb-5'>Register Your Account</p>
+            <p className='font-bold text-3xl text-center mb-5 mt-10'>Register Your Account</p>
             <form onSubmit={signUp}>
                 <div className="hero bg-base-200">
                     <div className="hero-content flex-col lg:flex-row-reverse md:w-[50vw]">

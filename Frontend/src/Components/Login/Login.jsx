@@ -29,7 +29,7 @@ const Login = () => {
         <div>
             <Helmet><title>Login</title></Helmet>
 
-            <p className='font-bold text-3xl text-center mb-5 mt-5'>Login Now</p>
+            <p className='font-bold text-3xl text-center mb-5 mt-10'>Login Now</p>
             <div className='md:flex'>
                 <div>
                     <Lottie animationData={loginimg}></Lottie>
