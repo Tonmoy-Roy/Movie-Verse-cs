@@ -6,7 +6,8 @@
     "category": "Sci-Fi",
     "ratings": 8.8,
     "details": "A thief with the ability to enter dreams must steal a secret from a dangerous mind.",
-    "published_date": "2010-07-16"
+    "published_date": "2010-07-16",
+    "trailer_link": "https://www.youtube.com/watch?v=YoHD9XEInc0"
   },
   {
     "_id": "6849bb88da67cb46ddc2333e",
@@ -15,7 +16,8 @@
     "category": "Action",
     "ratings": 9,
     "details": "Batman faces the Joker, a criminal mastermind wreaking havoc in Gotham.",
-    "published_date": "2008-07-18"
+    "published_date": "2008-07-18",
+    "trailer_link": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
   },
   {
     "_id": "6849bb88da67cb46ddc2333f",
@@ -24,7 +26,8 @@
     "category": "Animation",
     "ratings": 8.6,
     "details": "A young girl navigates a magical world to save her parents.",
-    "published_date": "2001-07-20"
+    "published_date": "2001-07-20",
+    "trailer_link": "https://www.youtube.com/watch?v=ByXuk9QqQkk"
   },
   {
     "_id": "6849bb88da67cb46ddc23340",
@@ -33,7 +36,8 @@
     "category": "Sci-Fi",
     "ratings": 8.7,
     "details": "A hacker discovers reality is a simulation controlled by machines.",
-    "published_date": "1999-03-31"
+    "published_date": "1999-03-31",
+    "trailer_link": "https://www.youtube.com/watch?v=m8e-FF8MsqU"
   },
   {
     "_id": "6849bb88da67cb46ddc23341",
@@ -42,7 +46,8 @@
     "category": "Crime",
     "ratings": 8.9,
     "details": "Intertwined stories of crime and redemption in Los Angeles.",
-    "published_date": "1994-10-14"
+    "published_date": "1994-10-14",
+    "trailer_link": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
   },
   {
     "_id": "6849bb88da67cb46ddc23342",
@@ -51,7 +56,8 @@
     "category": "Drama",
     "ratings": 8.8,
     "details": "A man with a low IQ experiences extraordinary events in American history.",
-    "published_date": "1994-07-06"
+    "published_date": "1994-07-06",
+    "trailer_link": "https://www.youtube.com/watch?v=bLvqoHBptjg"
   },
   {
     "_id": "6849bb88da67cb46ddc23343",
@@ -60,7 +66,8 @@
     "category": "Action",
     "ratings": 8.4,
     "details": "The Avengers unite to reverse Thanos' catastrophic snap.",
-    "published_date": "2019-04-26"
+    "published_date": "2019-04-26",
+    "trailer_link": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
   },
   {
     "_id": "6849bb88da67cb46ddc23344",
@@ -69,7 +76,8 @@
     "category": "Drama",
     "ratings": 8.6,
     "details": "A poor family infiltrates a wealthy household with unforeseen consequences.",
-    "published_date": "2019-05-30"
+    "published_date": "2019-05-30",
+    "trailer_link": "https://www.youtube.com/watch?v=5xH0HfJHsaY"
   },
   {
     "_id": "6849bb88da67cb46ddc23345",
@@ -78,7 +86,8 @@
     "category": "Romance",
     "ratings": 7.8,
     "details": "A love story unfolds aboard the ill-fated Titanic.",
-    "published_date": "1997-12-19"
+    "published_date": "1997-12-19",
+    "trailer_link": "https://www.youtube.com/watch?v=CHekzSiZjrY"
   },
   {
     "_id": "6849bb88da67cb46ddc23346",
@@ -87,7 +96,8 @@
     "category": "Sci-Fi",
     "ratings": 8.6,
     "details": "A team of explorers travels through a wormhole to save humanity.",
-    "published_date": "2014-11-07"
+    "published_date": "2014-11-07",
+    "trailer_link": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
   },
   {
     "_id": "6849bb88da67cb46ddc23347",
@@ -96,7 +106,8 @@
     "category": "Drama",
     "ratings": 9.3,
     "details": "A banker wrongfully imprisoned forms a bond with a fellow inmate.",
-    "published_date": "1994-09-23"
+    "published_date": "1994-09-23",
+    "trailer_link": "https://www.youtube.com/watch?v=6hB3S9bIaco"
   },
   {
     "_id": "6849bb88da67cb46ddc23348",
@@ -105,7 +116,8 @@
     "category": "Thriller",
     "ratings": 8.8,
     "details": "An insomniac forms an underground fight club with a mysterious stranger.",
-    "published_date": "1999-10-15"
+    "published_date": "1999-10-15",
+    "trailer_link": "https://www.youtube.com/watch?v=SUXWAEX2jlg"
   },
   {
     "_id": "6849bb88da67cb46ddc23349",
@@ -114,7 +126,8 @@
     "category": "Sci-Fi",
     "ratings": 8.6,
     "details": "A young farm boy joins a rebellion against an evil empire.",
-    "published_date": "1977-05-25"
+    "published_date": "1977-05-25",
+    "trailer_link": "https://www.youtube.com/watch?v=vZ734NWnAHA"
   },
   {
     "_id": "6849bb88da67cb46ddc2334a",
@@ -123,7 +136,8 @@
     "category": "Crime",
     "ratings": 9.2,
     "details": "The aging patriarch of a mafia family transfers control to his son.",
-    "published_date": "1972-03-24"
+    "published_date": "1972-03-24",
+    "trailer_link": "https://www.youtube.com/watch?v=sY1S34973zA"
   },
   {
     "_id": "6849bb88da67cb46ddc2334b",
@@ -132,7 +146,8 @@
     "category": "Romance",
     "ratings": 8,
     "details": "A musician and an actress pursue their dreams and love in Los Angeles.",
-    "published_date": "2016-12-09"
+    "published_date": "2016-12-09",
+    "trailer_link": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
   },
   {
     "_id": "6849bb88da67cb46ddc2334c",
@@ -141,7 +156,8 @@
     "category": "Drama",
     "ratings": 8.4,
     "details": "A failed comedian descends into madness in Gotham City.",
-    "published_date": "2019-10-04"
+    "published_date": "2019-10-04",
+    "trailer_link": "https://www.youtube.com/watch?v=t433PEQGErc"
   },
   {
     "_id": "6849bb88da67cb46ddc2334d",
@@ -150,7 +166,8 @@
     "category": "Sci-Fi",
     "ratings": 8,
     "details": "A replicant hunter uncovers a secret that threatens society.",
-    "published_date": "2017-10-06"
+    "published_date": "2017-10-06",
+    "trailer_link": "https://www.youtube.com/watch?v=gCcx85zbxz4"
   },
   {
     "_id": "6849bb88da67cb46ddc2334e",
@@ -159,7 +176,8 @@
     "category": "Animation",
     "ratings": 8.5,
     "details": "A young lion prince reclaims his kingdom from his treacherous uncle.",
-    "published_date": "1994-06-24"
+    "published_date": "1994-06-24",
+    "trailer_link": "https://www.youtube.com/watch?v=4sj1MT05lAA"
   },
   {
     "_id": "6849bb88da67cb46ddc2334f",
@@ -168,7 +186,8 @@
     "category": "Action",
     "ratings": 8.1,
     "details": "In a post-apocalyptic wasteland, a drifter and a rebel fight for survival.",
-    "published_date": "2015-05-15"
+    "published_date": "2015-05-15",
+    "trailer_link": "https://www.youtube.com/watch?v=hEJnMQG9ev8"
   },
   {
     "_id": "6849bb88da67cb46ddc23350",
@@ -177,7 +196,8 @@
     "category": "Comedy",
     "ratings": 8.1,
     "details": "A concierge and his lobby boy embark on a whimsical adventure.",
-    "published_date": "2014-03-28"
+    "published_date": "2014-03-28",
+    "trailer_link": "https://www.youtube.com/watch?v=1Fg5iWmQjwk"
   },
   {
     "_id": "6849bb88da67cb46ddc23351",
@@ -186,7 +206,8 @@
     "category": "Drama",
     "ratings": 8.5,
     "details": "A young drummer pushes his limits under a demanding instructor.",
-    "published_date": "2014-10-10"
+    "published_date": "2014-10-10",
+    "trailer_link": "https://www.youtube.com/watch?v=7d_jQw0jY1o"
   },
   {
     "_id": "6849bb88da67cb46ddc23352",
@@ -195,7 +216,8 @@
     "category": "Action",
     "ratings": 8,
     "details": "Earth's mightiest heroes unite to stop an alien invasion.",
-    "published_date": "2012-05-04"
+    "published_date": "2012-05-04",
+    "trailer_link": "https://www.youtube.com/watch?v=eOrNdBpGMv8"
   },
   {
     "_id": "6849bb88da67cb46ddc23353",
@@ -204,7 +226,8 @@
     "category": "Action",
     "ratings": 8.5,
     "details": "A Roman general seeks revenge against a corrupt emperor.",
-    "published_date": "2000-05-05"
+    "published_date": "2000-05-05",
+    "trailer_link": "https://www.youtube.com/watch?v=owK1qxDselE"
   },
   {
     "_id": "6849bb88da67cb46ddc23354",
@@ -213,7 +236,8 @@
     "category": "Crime",
     "ratings": 8.5,
     "details": "An undercover cop and a mole infiltrate each other's worlds.",
-    "published_date": "2006-10-06"
+    "published_date": "2006-10-06",
+    "trailer_link": "https://www.youtube.com/watch?v=SGWvwdk69D4"
   },
   {
     "_id": "6849bb88da67cb46ddc23355",
@@ -222,7 +246,8 @@
     "category": "Western",
     "ratings": 8.4,
     "details": "A freed slave teams up with a bounty hunter to rescue his wife.",
-    "published_date": "2012-12-25"
+    "published_date": "2012-12-25",
+    "trailer_link": "https://www.youtube.com/watch?v=eUdM1rUaXfg"
   },
   {
     "_id": "6849bb88da67cb46ddc23356",
@@ -231,7 +256,8 @@
     "category": "Biography",
     "ratings": 8.2,
     "details": "A stockbroker's rise and fall in a world of excess.",
-    "published_date": "2013-12-25"
+    "published_date": "2013-12-25",
+    "trailer_link": "https://www.youtube.com/watch?v=iszwuX1AK6A"
   },
   {
     "_id": "6849bb88da67cb46ddc23357",
@@ -240,7 +266,8 @@
     "category": "Thriller",
     "ratings": 8.2,
     "details": "A U.S. Marshal investigates a disappearance on a remote island.",
-    "published_date": "2010-02-19"
+    "published_date": "2010-02-19",
+    "trailer_link": "https://www.youtube.com/watch?v=5iaYLCiq5RM"
   },
   {
     "_id": "6849bb88da67cb46ddc23358",
@@ -249,7 +276,8 @@
     "category": "Animation",
     "ratings": 8.3,
     "details": "A cowboy doll faces rivalry with a new space ranger toy.",
-    "published_date": "1995-11-22"
+    "published_date": "1995-11-22",
+    "trailer_link": "https://www.youtube.com/watch?v=KYz2wyBy3kc"
   },
   {
     "_id": "6849bb88da67cb46ddc23359",
@@ -258,7 +286,8 @@
     "category": "Animation",
     "ratings": 8.4,
     "details": "A boy journeys to the Land of the Dead to uncover his family's history.",
-    "published_date": "2017-11-22"
+    "published_date": "2017-11-22",
+    "trailer_link": "https://www.youtube.com/watch?v=xlnPHQ3TLX8"
   },
   {
     "_id": "6849bb88da67cb46ddc2335a",
@@ -267,7 +296,8 @@
     "category": "Animation",
     "ratings": 8.2,
     "details": "An elderly widower embarks on an adventure with a young scout.",
-    "published_date": "2009-05-29"
+    "published_date": "2009-05-29",
+    "trailer_link": "https://www.youtube.com/watch?v=pkqzFUhGPOM"
   },
   {
     "_id": "6849bb88da67cb46ddc2335b",
@@ -276,7 +306,8 @@
     "category": "Animation",
     "ratings": 8.1,
     "details": "A clownfish searches for his missing son in the ocean.",
-    "published_date": "2003-05-30"
+    "published_date": "2003-05-30",
+    "trailer_link": "https://www.youtube.com/watch?v=wZdpNglLbt8"
   },
   {
     "_id": "6849bb88da67cb46ddc2335c",
@@ -285,7 +316,8 @@
     "category": "Animation",
     "ratings": 8,
     "details": "A family of superheroes saves the world from a villain.",
-    "published_date": "2004-11-05"
+    "published_date": "2004-11-05",
+    "trailer_link": "https://www.youtube.com/watch?v=sT3BEs5d6k8"
   },
   {
     "_id": "6849bb88da67cb46ddc2335d",
@@ -294,7 +326,8 @@
     "category": "Animation",
     "ratings": 8.4,
     "details": "A small robot with a big heart cleans up a deserted Earth.",
-    "published_date": "2008-06-27"
+    "published_date": "2008-06-27",
+    "trailer_link": "https://www.youtube.com/watch?v=alIq_wG9FNk"
   },
   {
     "_id": "6849bb88da67cb46ddc2335e",
@@ -303,7 +336,8 @@
     "category": "Animation",
     "ratings": 8,
     "details": "A rat with a passion for cooking becomes a chef in Paris.",
-    "published_date": "2007-06-29"
+    "published_date": "2007-06-29",
+    "trailer_link": "https://www.youtube.com/watch?v=NgsQ8mVkN8w"
   },
   {
     "_id": "6849bb88da67cb46ddc2335f",
@@ -312,7 +346,8 @@
     "category": "Animation",
     "ratings": 8.1,
     "details": "Emotions guide a young girl through a major life change.",
-    "published_date": "2015-06-19"
+    "published_date": "2015-06-19",
+    "trailer_link": "https://www.youtube.com/watch?v=seMwpP0yeu4"
   },
   {
     "_id": "6849bb88da67cb46ddc23360",
@@ -321,7 +356,8 @@
     "category": "Animation",
     "ratings": 8,
     "details": "A rabbit cop and a fox con artist solve a mystery in a mammal metropolis.",
-    "published_date": "2016-03-04"
+    "published_date": "2016-03-04",
+    "trailer_link": "https://www.youtube.com/watch?v=jWM0ct-OLsM"
   },
   {
     "_id": "6849bb88da67cb46ddc23361",
@@ -330,7 +366,8 @@
     "category": "Animation",
     "ratings": 7.6,
     "details": "A young girl sets sail to save her island with a demigod's help.",
-    "published_date": "2016-11-23"
+    "published_date": "2016-11-23",
+    "trailer_link": "https://www.youtube.com/watch?v=LKFuXETZUsI"
   },
   {
     "_id": "6849bb88da67cb46ddc23362",
@@ -339,7 +376,8 @@
     "category": "Animation",
     "ratings": 7.4,
     "details": "A fearless princess saves her sister and kingdom from eternal winter.",
-    "published_date": "2013-11-27"
+    "published_date": "2013-11-27",
+    "trailer_link": "https://www.youtube.com/watch?v=TbQm5doF_Uc"
   },
   {
     "_id": "6849bb88da67cb46ddc23363",
@@ -348,7 +386,8 @@
     "category": "Animation",
     "ratings": 7.8,
     "details": "A young prodigy and his robot team up to fight crime.",
-    "published_date": "2014-11-07"
+    "published_date": "2014-11-07",
+    "trailer_link": "https://www.youtube.com/watch?v=z3biFxZIJOQ"
   },
   {
     "_id": "6849bb88da67cb46ddc23364",
@@ -357,7 +396,8 @@
     "category": "Animation",
     "ratings": 8,
     "details": "A musician discovers the meaning of life after an unexpected journey.",
-    "published_date": "2020-12-25"
+    "published_date": "2020-12-25",
+    "trailer_link": "https://www.youtube.com/watch?v=xOsLIiBStEs"
   },
   {
     "_id": "6849bb88da67cb46ddc23365",
@@ -366,7 +406,8 @@
     "category": "Sci-Fi",
     "ratings": 8.7,
     "details": "The rebels face Darth Vader as Luke trains to become a Jedi.",
-    "published_date": "1980-05-21"
+    "published_date": "1980-05-21",
+    "trailer_link": "https://www.youtube.com/watch?v=JNwNXF9Y6kY"
   },
   {
     "_id": "6849bb88da67cb46ddc23366",
@@ -375,7 +416,8 @@
     "category": "Sci-Fi",
     "ratings": 8.3,
     "details": "The rebels launch a final assault against the Empire.",
-    "published_date": "1983-05-25"
+    "published_date": "1983-05-25",
+    "trailer_link": "https://www.youtube.com/watch?v=7L8p7_SLzvU"
   },
   {
     "_id": "6849bb88da67cb46ddc23367",
@@ -384,7 +426,8 @@
     "category": "Adventure",
     "ratings": 8.1,
     "details": "A theme park of cloned dinosaurs turns deadly.",
-    "published_date": "1993-06-11"
+    "published_date": "1993-06-11",
+    "trailer_link": "https://www.youtube.com/watch?v=QWBKEmWWL38"
   },
   {
     "_id": "6849bb88da67cb46ddc23368",
@@ -393,7 +436,8 @@
     "category": "Sci-Fi",
     "ratings": 8.5,
     "details": "A teen travels back in time with a quirky scientist's help.",
-    "published_date": "1985-07-03"
+    "published_date": "1985-07-03",
+    "trailer_link": "https://www.youtube.com/watch?v=qvsgGtivCgs"
   },
   {
     "_id": "6849bb88da67cb46ddc23369",
@@ -402,7 +446,8 @@
     "category": "Fantasy",
     "ratings": 8.8,
     "details": "A hobbit carries a powerful ring to save Middle-earth.",
-    "published_date": "2001-12-19"
+    "published_date": "2001-12-19",
+    "trailer_link": "https://www.youtube.com/watch?v=V75dMMIW2B4"
   },
   {
     "_id": "6849bb88da67cb46ddc2336a",
@@ -411,7 +456,8 @@
     "category": "Fantasy",
     "ratings": 8.7,
     "details": "The fellowship continues their quest against Sauron's forces.",
-    "published_date": "2002-12-18"
+    "published_date": "2002-12-18",
+    "trailer_link": "https://www.youtube.com/watch?v=LbfMDwc4azU"
   },
   {
     "_id": "6849bb88da67cb46ddc2336b",
@@ -420,7 +466,8 @@
     "category": "Fantasy",
     "ratings": 8.9,
     "details": "The final battle for Middle-earth determines its fate.",
-    "published_date": "2003-12-17"
+    "published_date": "2003-12-17",
+    "trailer_link": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
   },
   {
     "_id": "6849bb88da67cb46ddc2336c",
@@ -429,7 +476,8 @@
     "category": "Fantasy",
     "ratings": 7.6,
     "details": "A young wizard discovers his destiny at Hogwarts.",
-    "published_date": "2001-11-16"
+    "published_date": "2001-11-16",
+    "trailer_link": "https://www.youtube.com/watch?v=VyHV0BRtdxo"
   },
   {
     "_id": "6849bb88da67cb46ddc2336d",
@@ -438,7 +486,8 @@
     "category": "Fantasy",
     "ratings": 7.4,
     "details": "Harry faces danger as a mysterious force threatens Hogwarts.",
-    "published_date": "2002-11-15"
+    "published_date": "2002-11-15",
+    "trailer_link": "https://www.youtube.com/watch?v=1xq6W1S2mVw"
   },
   {
     "_id": "6849bb88da67cb46ddc2336e",
@@ -447,7 +496,8 @@
     "category": "Fantasy",
     "ratings": 7.9,
     "details": "Harry learns about his past as a dangerous prisoner escapes.",
-    "published_date": "2004-05-31"
+    "published_date": "2004-05-31",
+    "trailer_link": "https://www.youtube.com/watch?v=lAxgJt06TCg"
   },
   {
     "_id": "6849bb88da67cb46ddc2336f",
@@ -456,7 +506,8 @@
     "category": "Biography",
     "ratings": 7.7,
     "details": "The founding of Facebook and its creator's legal battles.",
-    "published_date": "2010-10-01"
+    "published_date": "2010-10-01",
+    "trailer_link": "https://www.youtube.com/watch?v=lB95KLmpLR4"
   },
   {
     "_id": "6849bb88da67cb46ddc23370",
@@ -465,7 +516,8 @@
     "category": "War",
     "ratings": 8.3,
     "details": "A group of soldiers plot to assassinate Nazi leaders.",
-    "published_date": "2009-08-21"
+    "published_date": "2009-08-21",
+    "trailer_link": "https://www.youtube.com/watch?v=KnrRy6kSFF0"
   },
   {
     "_id": "6849bb88da67cb46ddc23371",
@@ -474,7 +526,8 @@
     "category": "Thriller",
     "ratings": 8.1,
     "details": "A hunter stumbles upon a drug deal gone wrong and its consequences.",
-    "published_date": "2007-11-09"
+    "published_date": "2007-11-09",
+    "trailer_link": "https://www.youtube.com/watch?v=38A__WT3-o0"
   },
   {
     "_id": "6849bb88da67cb46ddc23372",
@@ -483,7 +536,8 @@
     "category": "Drama",
     "ratings": 8.2,
     "details": "An oilman’s ambition leads to greed and betrayal.",
-    "published_date": "2007-12-26"
+    "published_date": "2007-12-26",
+    "trailer_link": "https://www.youtube.com/watch?v=FeSLPELpMeM"
   },
   {
     "_id": "6849bb88da67cb46ddc23373",
@@ -492,7 +546,8 @@
     "category": "Fantasy",
     "ratings": 8.2,
     "details": "A girl escapes a brutal reality through a magical labyrinth.",
-    "published_date": "2006-10-11"
+    "published_date": "2006-10-11",
+    "trailer_link": "https://www.youtube.com/watch?v=EqYiSlkvRuw"
   },
   {
     "_id": "6849bb88da67cb46ddc23374",
@@ -501,7 +556,8 @@
     "category": "Romance",
     "ratings": 8.3,
     "details": "A couple erases each other from their memories, then reconnects.",
-    "published_date": "2004-03-19"
+    "published_date": "2004-03-19",
+    "trailer_link": "https://www.youtube.com/watch?v=0z1x3b6fB4Q"
   },
   {
     "_id": "6849bb88da67cb46ddc23375",
@@ -510,7 +566,8 @@
     "category": "Thriller",
     "ratings": 8.4,
     "details": "A man with memory loss searches for his wife’s killer.",
-    "published_date": "2000-10-11"
+    "published_date": "2000-10-11",
+    "trailer_link": "https://www.youtube.com/watch?v=UFuFFdK7i3k"
   },
   {
     "_id": "6849bb88da67cb46ddc23376",
@@ -519,7 +576,8 @@
     "category": "Thriller",
     "ratings": 8.4,
     "details": "A man seeks vengeance after being mysteriously imprisoned.",
-    "published_date": "2003-11-21"
+    "published_date": "2003-11-21",
+    "trailer_link": "https://www.youtube.com/watch?v=2HkjrJ6IK5E"
   },
   {
     "_id": "6849bb88da67cb46ddc23377",
@@ -528,7 +586,8 @@
     "category": "Animation",
     "ratings": 8.4,
     "details": "A prince fights to save a forest from human destruction.",
-    "published_date": "1997-07-12"
+    "published_date": "1997-07-12",
+    "trailer_link": "https://www.youtube.com/watch?v=4OiMOHRDs14"
   },
   {
     "_id": "6849bb88da67cb46ddc23378",
@@ -537,7 +596,8 @@
     "category": "Animation",
     "ratings": 8.2,
     "details": "A young woman joins a wizard in his magical castle.",
-    "published_date": "2004-11-20"
+    "published_date": "2004-11-20",
+    "trailer_link": "https://www.youtube.com/watch?v=iwROgK94zcM"
   },
   {
     "_id": "6849bb88da67cb46ddc23379",
@@ -546,7 +606,8 @@
     "category": "Animation",
     "ratings": 8.2,
     "details": "Two sisters befriend magical creatures in rural Japan.",
-    "published_date": "1988-04-16"
+    "published_date": "1988-04-16",
+    "trailer_link": "https://www.youtube.com/watch?v=92a7Hj0ijLs"
   },
   {
     "_id": "6849bb88da67cb46ddc2337a",
@@ -555,7 +616,8 @@
     "category": "Animation",
     "ratings": 8.5,
     "details": "Two siblings struggle to survive in war-torn Japan.",
-    "published_date": "1988-04-16"
+    "published_date": "1988-04-16",
+    "trailer_link": "https://www.youtube.com/watch?v=4vPeTSLU1i4"
   },
   {
     "_id": "6849bb88da67cb46ddc2337b",
@@ -564,7 +626,8 @@
     "category": "Animation",
     "ratings": 7.8,
     "details": "A young witch starts a delivery service in a new town.",
-    "published_date": "1989-07-29"
+    "published_date": "1989-07-29",
+    "trailer_link": "https://www.youtube.com/watch?v=4bG17OYs-GA"
   },
   {
     "_id": "6849bb88da67cb46ddc2337c",
@@ -573,7 +636,8 @@
     "category": "Animation",
     "ratings": 7.7,
     "details": "A cursed pilot fights air pirates in the Adriatic Sea.",
-    "published_date": "1992-07-18"
+    "published_date": "1992-07-18",
+    "trailer_link": "https://www.youtube.com/watch?v=awec86sZEG4"
   },
   {
     "_id": "6849bb88da67cb46ddc2337d",
@@ -582,7 +646,8 @@
     "category": "Animation",
     "ratings": 8,
     "details": "Two children search for a legendary floating castle.",
-    "published_date": "1986-08-02"
+    "published_date": "1986-08-02",
+    "trailer_link": "https://www.youtube.com/watch?v=3rV3i3vN8ks"
   },
   {
     "_id": "6849bb88da67cb46ddc2337e",
@@ -591,7 +656,8 @@
     "category": "Animation",
     "ratings": 7.8,
     "details": "A designer dreams of building beautiful airplanes.",
-    "published_date": "2013-07-20"
+    "published_date": "2013-07-20",
+    "trailer_link": "https://www.youtube.com/watch?v=2QFBZgAZxJ0"
   },
   {
     "_id": "6849bb88da67cb46ddc2337f",
@@ -600,7 +666,8 @@
     "category": "Animation",
     "ratings": 7.7,
     "details": "A goldfish princess befriends a human boy.",
-    "published_date": "2008-07-19"
+    "published_date": "2008-07-19",
+    "trailer_link": "https://www.youtube.com/watch?v=CsR3KVg4zHE"
   },
   {
     "_id": "6849bb88da67cb46ddc23380",

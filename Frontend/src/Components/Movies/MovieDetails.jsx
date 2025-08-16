@@ -79,7 +79,7 @@ const MovieDetails = () => {
                         </div>
                         <p className="mb-5 text-left">{moviedata.details}</p>
                         <button className="btn btn-error" onClick={() => handleTrailer()}>Trailer</button>
-                        <button className="btn btn-neutral" onClick={() => handleCart(moviedata)}>Add to Watchlist</button>
+                        <button className="btn btn-info" onClick={() => handleCart(moviedata)}>Add to Watchlist</button>
                         <button className="btn btn-success mb-24" onClick={() => handleDownload()}>Download</button>
                     </div>
                 </div>
