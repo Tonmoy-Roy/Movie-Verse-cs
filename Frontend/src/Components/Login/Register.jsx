@@ -56,7 +56,7 @@ const Register = () => {
             <Helmet><title>Registration</title></Helmet>
             <p className='font-bold text-3xl text-center mb-5 mt-10'>Register Your Account</p>
             <form onSubmit={signUp}>
-                <div className="hero bg-base-200">
+                <div className="hero text-black">
                     <div className="hero-content flex-col lg:flex-row-reverse md:w-[50vw]">
                         <div className="card bg-base-100 w-full max-w-sm shrink-0 shadow-2xl">
                             <div className="card-body">

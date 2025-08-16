@@ -17,7 +17,7 @@ const Dashboard = () => {
             <Helmet><title>Dashboard</title></Helmet>
             {/* Toggle Button for Mobile */}
             <button
-                className="md:hidden p-3 fixed top-4 left-4 z-30 bg-yellow-600 rounded"
+                className="md:hidden fixed top-4 left-1 bg-yellow-600 rounded"
                 onClick={() => setIsOpen(!isOpen)}
             >
                 <IoMdMenu className="text-2xl" />
@@ -25,7 +25,7 @@ const Dashboard = () => {
 
             {/* Sidebar */}
             <div
-                className={`fixed top-0 left-0 z-20 bg-yellow-600 min-h-screen w-48 p-4 transform transition-transform duration-300 ease-in-out
+                className={` top-0 left-0 z-20 bg-yellow-600 min-h-screen w-48 p-4 transform transition-transform duration-300 ease-in-out
             ${isOpen ? 'translate-x-0' : '-translate-x-full'} md:translate-x-0 md:w-[15vw] md:block`}
             >
                 <ul className="menu space-y-4 mt-20">

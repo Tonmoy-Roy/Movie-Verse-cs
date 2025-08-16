@@ -23,7 +23,6 @@ const Login = () => {
                 setError1(true);
                 console.log('Error', error.message);
             })
-
     }
     return (
         <div>
@@ -35,7 +34,7 @@ const Login = () => {
                     <Lottie animationData={loginimg}></Lottie>
                 </div>
                 <form onSubmit={login}>
-                    <div className="hero bg-base-200">
+                    <div className="hero rounded text-black">
                         <div className="hero-content flex-col lg:flex-row-reverse md:w-[20vw]">
                             <div className="card bg-base-100 w-full max-w-sm shrink-0 shadow-2xl">
                                 <div className="card-body md:h-[50vh]">

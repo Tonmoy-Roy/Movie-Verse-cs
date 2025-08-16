@@ -39,7 +39,7 @@ const AllMovies = () => {
                 </div>
 
                 {/* Search Input aligned right */}
-                <div className="ml-auto mt-4 md:mt-0">
+                <div className="ml-auto mt-10">
                     <div className="relative">
                         <input
                             name="search"

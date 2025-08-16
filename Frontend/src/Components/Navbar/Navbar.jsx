@@ -26,7 +26,7 @@ const Navbar = () => {
         }
     </>
     return (
-        <div className="navbar shadow-sm bg-black rounded text-white fixed top-0 z-50 mt-0 w-[80%]">
+        <div className="navbar shadow-sm bg-black rounded text-white fixed top-0 z-50 mt-0 w-[80%] ">
             <p className="font-bold">Movie Verse</p>
             <div className="navbar-start">
                 <div className="dropdown">
@@ -37,7 +37,6 @@ const Navbar = () => {
                         tabIndex={0}
                         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow text-black">
                         {links}
-
                     </ul>
                 </div>
                 {/* <p>{currentDateTime}</p> */}

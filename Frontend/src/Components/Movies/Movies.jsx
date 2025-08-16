@@ -36,7 +36,7 @@ const Movies = () => {
                 transition={{ duration: 0.6 }}
                 viewport={{ once: true }}
             >
-                <div className="text-right mt-10">
+                <div className="text-right mt-[10vh]">
                     <Link to="/allmovies" className=" btn btn-error text-white">See All</Link>
                 </div>
                 <div className="mt-8">

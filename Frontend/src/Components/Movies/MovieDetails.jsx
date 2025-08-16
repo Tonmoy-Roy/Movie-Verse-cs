@@ -53,11 +53,11 @@ const MovieDetails = () => {
 
     return (
         <div>
-            <div className="hero bg-base-200 mb-24">
+            <div className="hero mb-24">
                 <div className="hero-content flex-col lg:flex-row">
                     <img
                         src={moviedata.image}
-                        className=" rounded-lg shadow-2xl mr-5"
+                        className=" rounded-lg shadow-2xl mr-5 mt-4"
                     />
                     <div className="card-body order-4 border-red-600 md:w-[20vw]">
                         <h2 className="card-title text-3xl md:w-[20vw] mb-3">

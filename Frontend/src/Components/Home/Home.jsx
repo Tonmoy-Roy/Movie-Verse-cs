@@ -22,7 +22,7 @@ import Questions from "./Questions";
 import { Helmet } from "react-helmet-async";
 const Home = () => {
     return (
-        <div className="mt-8">
+        <div className="mt-32 lg:mt-8">
             <Helmet><title>Home</title></Helmet>
             <Carousel>
                 <div>

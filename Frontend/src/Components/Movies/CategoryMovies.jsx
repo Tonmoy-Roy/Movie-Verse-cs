@@ -14,9 +14,9 @@ const CategoryMovies = () => {
     const fanatasy = movies.filter(items => items.category === 'Fantasy')
 
     return (
-        <div className='mt-5'>
+        <div>
             <Helmet><title>Category Movies</title></Helmet>
-            <p className='font-bold text-3xl mb-2 mt-10'>Category : Action</p>
+            <p className='font-bold text-3xl mb-2 mt-14'>Category : Action</p>
             <div className='md:grid grid-cols-3'>
                 {
                     actions.map(movie => <DetailsMovie movie={movie}></DetailsMovie>)

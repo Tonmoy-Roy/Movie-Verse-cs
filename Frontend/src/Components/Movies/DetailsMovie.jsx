@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const DetailsMovie = ({ movie = {} }) => {
     return (
-        <div className="card bg-base-100 shadow-sm">
+        <div className="card shadow-sm">
             <figure>
                 <img
                     src={movie.image}
@@ -25,7 +25,7 @@ const DetailsMovie = ({ movie = {} }) => {
                         <input type="radio" className="mask mask-star-2 bg-orange-400" aria-label="5 star" />
                     </div>
                 </div>
-                <Link to={`/moviedetails/${movie._id}`}><button className="btn btn-neutral">View Details</button></Link>
+                <Link to={`/moviedetails/${movie._id}`}><button className="btn btn-outline">View Details</button></Link>
             </div>
         </div>
     );

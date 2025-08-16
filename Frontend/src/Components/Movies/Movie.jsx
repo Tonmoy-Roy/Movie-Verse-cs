@@ -1,7 +1,7 @@
 
 const Movie = ({ movie = {} }) => {
     return (
-        <div className="card bg-base-100 shadow-sm">
+        <div className="card shadow-sm">
             <figure>
                 <img
                     src={movie.image}
